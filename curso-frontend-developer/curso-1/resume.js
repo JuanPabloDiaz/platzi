@@ -1,6 +1,6 @@
 var i = 0;
 var txt = "Juan Diaz _";
-var speed = 170;
+var speed = 2200;
 
 function typeWriter() {
   if (i < txt.length) {
@@ -31,7 +31,7 @@ function sleep(ms) {
 }
 
 async function delayedGreeting() {
-  await sleep(2500);
+  await sleep(3190);
   alert("Code The World!");
   /*
   await sleep(2000);
