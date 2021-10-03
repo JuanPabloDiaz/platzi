@@ -22,7 +22,7 @@ body {
   align-items: center;
 }
 
-.target {
+.box {
   width: 600px;
   height: 450px;
   background-color: #302c2c;
@@ -32,7 +32,7 @@ body {
   box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
 }
 
-.header {
+.banner {
   width: 100%;
   height: 160px;
   overflow: hidden;
@@ -40,13 +40,14 @@ body {
   top: 0;
 }
 
-.header img {
+.banner img {
   width: 100%;
   position: absolute;
   top: -160px;
+  right: -1px;
 }
 
-.box {
+.contenido {
   width: 100%;
   height: 290px;
   position: relative;
@@ -56,7 +57,7 @@ body {
   align-items: center;
 }
 
-.box .logo {
+.contenido .logo {
   width: 160px;
   height: 160px;
   border-radius: 100px;
@@ -65,14 +66,14 @@ body {
   top: -100px;
 }
 
-.box .logo img {
+.contenido .logo img {
   width: 100%;
   height: 100%;
   border-radius: 50%;
   z-index: 99;
 }
 
-.box .img-top {
+.contenido .img-top {
   display: none;
   position: absolute;
   top: 0;
@@ -114,12 +115,12 @@ body {
   /*height: 200px;
   flex-direction: column;*/
 }
-.item {
+.cubos {
   width: 70px;
-  height: 100px;
+  height: 110px;
   background: rgba(192, 177, 177, 0.863);
 }
-.flexbox .item:nth-child(2n + 1) {
+.flexbox .cubos:nth-child(2n + 1) {
   background: rgba(0, 0, 0, 0.932);
 }
 .copy {

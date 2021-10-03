@@ -1,6 +1,6 @@
 var i = 0;
-var txt = "Juan Diaz _";
-var speed = 2200;
+var txt = " Juan Diaz _";
+var speed = 220;
 
 function typeWriter() {
   if (i < txt.length) {
