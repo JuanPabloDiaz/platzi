@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div p {
+        color: rgb(60, 145, 60);
+      }
+      div > div {
+        background: plum;
+      }
+      .es {
+        background: red;
+      }
+      /*  elementos adjacentes osea al lado del otro*/
+      div + section {
+        background: palevioletred;
+      }
+      div ~ p {
+        color: powderblue;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <p>todos los p que estan dentro del div</p>
+    </div>
+    <div>
+      <div>
+        <p>cumple la condicion anterion, es div > p.</p>
+        <div class="es">use un class y tiene background</div>
+      </div>
+      <hr />
+    </div>
+    <p>vi ~ p: elementos selectores</p>
+    <p>vi ~ p: elementos selectores</p>
+    <section>
+      elementos adjacentes osea al lado del otro. CSS: div + section
+    </section>
+    <div>Master</div>
+  </body>
+</html>
