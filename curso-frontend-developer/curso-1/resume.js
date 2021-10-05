@@ -1,5 +1,5 @@
 var i = 0;
-var txt = " Juan Diaz _";
+var txt = "\n\n Juan Diaz _";
 var speed = 220;
 
 function typeWriter() {
