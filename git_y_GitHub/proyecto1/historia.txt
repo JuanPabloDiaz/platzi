@@ -1,0 +1,5 @@
+Hola,
+
+Me llamo Juan Diaz y estoy aprendiendo con Fredy en Platzi.com
+
+Hoy es 10/31/21 y estoy tomando el "Curso Profesional de Git y GitHub".
