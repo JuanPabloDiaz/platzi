@@ -2,7 +2,7 @@
 
 # Platzi courses | 2021
 
-A variety of courses, assigments and many more activities develop using Platzi.com as my main source of information.
+A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -27,7 +27,7 @@ A variety of courses, assigments and many more activities develop using Platzi.c
 
 There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on.
 
-This project was part of an assignment on one of the classes I took. The idea was to merge the concepts I learned and applied them on a single one-page website.
+I started taking classes on September and completed over 25 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
