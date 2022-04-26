@@ -6,7 +6,7 @@ This folder was created at the end of 2021 when I took the "Freelance Profesiona
 
 <!-- CERTIFICATE -->
 
-## My Certificate
+## My Certificate 🎓
 
 I completed the course back on December 2021 and here is my [certificate](https://platzi.com/p/DiazJuan/curso/2564-course/diploma/detalle/)
 
