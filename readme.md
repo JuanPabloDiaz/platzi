@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Platzi courses | 2021
+# Platzi courses
 
 A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
