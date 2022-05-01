@@ -1,0 +1,167 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: medium;
+}
+
+nav {
+  width: 100%;
+  height: 3rem;
+  background-color: #0c1633;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  justify-items: center;
+  font-size: 1rem;
+}
+
+.logo {
+  margin-left: -10rem;
+  margin-top: 5px;
+}
+
+main {
+  padding: 40px 120px 40px 120px;
+}
+
+.section-one {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+.left-section {
+  width: 50%;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.dates {
+  color: #98ca3f;
+  font-size: 1rem;
+  font-weight: bold;
+  font-stretch: expanded;
+}
+
+input {
+  width: 13rem;
+  height: 1.5rem;
+  border-color: whitesmoke;
+  box-shadow: none;
+  border-width: 0.05rem;
+  outline: none;
+}
+
+button {
+  width: 5rem;
+  height: 1.5rem;
+  border-radius: 0.35rem;
+  color: white;
+  background-color: #98ca3f;
+  border: none;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+}
+
+.right-section {
+  width: 50%;
+  padding-left: 21rem;
+}
+
+.second-section {
+  width: 80%;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bolder;
+  padding-bottom: 1rem;
+}
+
+.card-section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+  margin: 0;
+  /*    margin-left: 5rem; */
+}
+
+.card {
+  align-content: center;
+  width: 12.5rem;
+  height: 6rem;
+  background-color: #0c1633;
+  color: white;
+  padding: 0rem 2rem 2rem 2.5rem;
+  border-radius: 0.35rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+.course-section {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-courses {
+  width: 18.75rem;
+  height: 8rem;
+  color: white;
+  background-color: #98ca3f;
+  padding: 0.125rem 1.25rem 0.625rem 1.25rem;
+  border-radius: 0.35rem;
+}
+
+.course-title {
+  font-size: 1.5rem;
+}
+
+#green {
+  background-color: #98ca3f;
+}
+
+#blue {
+  background-color: #17a2f8;
+}
+
+#pink {
+  background-color: #ff8080;
+}
+
+footer {
+  background-color: #0c1633;
+  color: white;
+  font-size: 0.8rem;
+  height: auto;
+}
+
+.footer-logo {
+  margin-left: 0.3rem;
+  padding-top: 0.65rem;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 1.2rem;
+  padding-bottom: 1.2rem;
+}
+
+li {
+  padding-left: 1.2rem;
+}
+
+.footer-text {
+  padding-left: 2.5rem;
+}

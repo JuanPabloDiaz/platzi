@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.parent {
+  display: inline-block;
+}
+.box {
+  display: inline-block;
+  border-radius: 5%;
+  text-align: center;
+  text-justify: auto;
+  font-size: larger;
+  color: blanchedalmond;
+}
+#title {
+  background-color: burlywood;
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  top: 22%;
+  left: 40%;
+}
+#fondo {
+  width: 50vw;
+  height: 50vh;
+  background-color: rgba(141, 76, 141, 0.89);
+  margin: auto;
+  position: absolute;
+  top: 25%;
+  right: 25%;
+}
+p {
+  line-height: 1.5;
+  /* vertical-align: bottom; */
+}
