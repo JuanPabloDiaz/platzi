@@ -1,0 +1,205 @@
+/*
+|================================================================|
+|    Default-CSS | v1.02 Last update: 2021-11-08 | MIT License   |
+|    Autor: Juan Diaz - https://github.com/JuanPabloDiaz    |
+|================================================================|
+*/
+/*main*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+html::before {
+  content: "";
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 1000px;
+  z-index: -3;
+  width: auto;
+  height: 160%;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  /*Google font links required*/
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+}
+footer {
+  background-color: rgba(8, 8, 8, 0.247);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5%;
+}
+/* END main*/
+
+/* ========================================================================== */
+
+:root {
+  /* ******* COLOR PALETTE VARIABLES ************* */
+  /* Button: */
+  --btn_a: #4a4a48;
+  --bg-btn: #566246;
+  --text_btn: #f1f2eb;
+  --btn_h: #a4c2a5;
+  --btn_a_bg: #d8dad3;
+
+  --color4: #778da9;
+  /* Container color:*/
+  --color5: #e0e1dd;
+}
+
+/* Container */
+.container {
+  position: relative;
+  background-color: var(--color5);
+  margin: 0 auto;
+  margin-bottom: 30vh;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Card Title */
+.container .title {
+  padding: 20px;
+  margin-top: 5%;
+}
+/* .container .title img {
+  width: 100%;
+  height: 70px;
+  object-fit: cover;
+} */
+.container .title h2 {
+  text-align: center;
+  font-weight: 300;
+}
+.container .title h2 img {
+  width: 20px;
+}
+.container .title p {
+  text-align: center;
+}
+
+/* .container .title i {
+  font-size: 3rem;
+} */
+
+/* Card content */
+.card {
+  padding: 5px 10px;
+}
+
+/* Subtitle */
+.container hr {
+  margin: 5px 10px;
+}
+.container h3 {
+  font-weight: 500;
+}
+.container i {
+  font-size: 1.6rem;
+}
+.container p {
+  margin: 5px 0;
+  line-height: 1.8rem;
+}
+
+/* imagen */
+.container .imag {
+  /* text-align: center; */
+  margin-bottom: 10px;
+}
+.container img {
+  /* text-align: center; */
+  width: 100%;
+}
+h3 .icon {
+  width: 16px;
+}
+.container .imag .parallel {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+/* Form */
+.container .form {
+  text-align: center;
+}
+.container input {
+  text-align: center;
+  width: 99%;
+  height: 2.5rem;
+  font-size: 1.8rem;
+  border-radius: 3px;
+  border-width: 0.5px;
+  margin: 2px 0;
+}
+.container button {
+  background-color: var(--bg-btn);
+  color: var(--text_btn);
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.6rem;
+  border-radius: 3px;
+  border-width: 0.5px;
+  margin: 2px 0;
+  cursor: pointer;
+  padding: 5%;
+  margin: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container button:hover {
+  background-color: var(--btn_h);
+  color: var(--text_btn);
+}
+.container button:active {
+  background-color: var(--btn_a_bg);
+  color: var(--btn_a);
+}
+
+/* Container Result */
+.result {
+  margin: 5px 0;
+}
+.result li {
+  list-style: none;
+  font-size: 1.8rem;
+  line-height: 2rem;
+  text-align: center;
+}
+.result li span {
+  font-weight: 600;
+}
+
+/* ========================================================================== */
+/*End of MOBILE*/
+
+@media screen and (max-width: 768px) {
+  html::before {
+    background-image: none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .container .imag .parallel {
+    padding: 0;
+  }
+}

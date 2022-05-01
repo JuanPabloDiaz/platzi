@@ -1,0 +1,27 @@
+/*
+|================================================================|
+|    Default-CSS | v1.02 Last update: 2021-11-08 | MIT License   |
+|    Autor: Juan Diaz - https://github.com/JuanPabloDiaz    |
+|================================================================|
+*/
+
+.container {
+  width: 70%;
+}
+
+.container .content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.container .card {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+}
+/* html::before {
+  background-image: none;
+} */
+/* ========================================================================= */
+/*End of DESKTOP M*/

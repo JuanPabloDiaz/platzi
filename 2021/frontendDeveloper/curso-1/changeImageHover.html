@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Change Image on Hover in CSS</title>
+    <style>
+      .card {
+        width: 130px;
+        height: 195px;
+        position: relative;
+        display: inline-block;
+        margin: 50px;
+      }
+      .card .img-top {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+      }
+      .card:hover .img-top {
+        display: inline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <img
+        src="https://i.pinimg.com/736x/b8/11/a5/b811a58a20c1b74d1179f44771747d76--state-of-play-plastic-trays.jpg"
+        width="150px"
+        alt="Card Back"
+      />
+      <!-- https://www.tutorialrepublic.com/examples/images/card-front.jpg    -->
+      <img
+        src="https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/1/poker-playing-card-ace-spade-miroslav-nemecek-transparent.png?&targetx=41&targety=36&imagewidth=417&imageheight=627&modelwidth=500&modelheight=700&backgroundcolor=ffffff&orientation=1"
+        class="img-top"
+        width="155px"
+        alt="Card Front"
+      />
+    </div>
+  </body>
+</html>

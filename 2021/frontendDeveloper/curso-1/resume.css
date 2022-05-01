@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  background-image: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(81, 81, 81, 0.5);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 600px;
+  height: 450px;
+  background-color: #302c2c;
+  border-radius: 40px;
+  overflow: hidden;
+
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+
+.banner {
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  position: relative;
+  top: 0;
+}
+
+.banner img {
+  width: 100%;
+  position: absolute;
+  top: -160px;
+  right: -1px;
+}
+
+.contenido {
+  width: 100%;
+  height: 290px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contenido .logo {
+  width: 160px;
+  height: 160px;
+  border-radius: 100px;
+  border: 5px solid rgb(9, 71, 1);
+  position: absolute;
+  top: -100px;
+}
+
+.contenido .logo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  z-index: 99;
+}
+
+.contenido .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.logo:hover .img-top {
+  display: inline;
+}
+
+.type h1 {
+  font-size: 45px;
+  font-weight: 700;
+  margin-top: 70px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: whitesmoke;
+  height: 30px;
+}
+
+.type h3 {
+  //  font-family: Source Code Pro;
+
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: rgb(31, 102, 31);
+}
+
+/* ---------         Flexbox              ----------- */
+.flexbox {
+  margin-top: 30px;
+  display: flex;
+  background: papayawhip;
+  justify-content: center;
+  align-items: center;
+  /*height: 200px;
+  flex-direction: column;*/
+}
+.cubos {
+  width: 70px;
+  height: 110px;
+  background: rgba(192, 177, 177, 0.863);
+}
+.flexbox .cubos:nth-child(2n + 1) {
+  background: rgba(0, 0, 0, 0.932);
+}
+.copy {
+  padding: 60px 0 0 15px;
+  color: rgba(71, 67, 67, 0.507);
+}

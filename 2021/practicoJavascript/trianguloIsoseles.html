@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Triangulo Isoseles</title>
+	<style>
+		img {
+			width: 100px;
+		}
+	</style>
+  </head>
+  <body>
+    <header>
+      <h1>Triangulo Isoseles</h1>
+    </header>
+
+    <section>
+      <h2>Calcula el alto de un triángulo isósceles..</h2>
+	<!-- Shape imag -->
+	<div class="imag">
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Triangle.Isosceles.svg/1200px-Triangle.Isosceles.svg.png" />
+	</div>
+	<!-- Form -->
+	<div class="form">
+		<input type="text" placeholder="side a" id="side_a" value="" />
+		<input type="text" placeholder="side b" id="side_b" value="" />
+		<input type="text" placeholder="side c" id="side_c" value="" />
+
+	  <button id="triangle_iso_btn" onclick="triangle_iso()">Calculate</button>
+	</div>
+	<!-- Result -->
+	<div class="result">
+	  <ul>
+		<li>Altura: <span id="area_tri_iso"></span></li>
+	  </ul>
+	</div>
+
+  </body>
+  <script>
+    // 	  Durante este taller aprendimos a calcular el área y perímetro de un triángulo conociendo la longitud de sus 3 lados y también su altura.
+
+    // En este ejercicio debes crear una función para calcular la altura de un triángulo isósceles.
+
+    // La función debe recibir, como parámetros, la longitud de los 3 lados del triángulo.
+    // La función debe validar que la longitud de los 3 lados del triángulo corresponden a un triángulo isósceles.
+    // La función debe retornar la altura del triángulo.
+    // Pista: la función Math.sqrt de JavaScript puede ayudarte a calcular raíces cuadradas.
+
+	//===========================================================
+
+function triangle_iso(side_a,side_b, side_c) {
+  //========================================
+  // Get elements
+//   const btn = document.getElementById("triangle_iso_btn"),
+//   a = document.getElementById("side_a"),
+//   b = document.getElementById("side_b"),
+//   c = document.getElementById("side_c"),
+//   A = document.getElementById("area_tri_iso");
+
+  // validar isoseles
+if (a === b || b ===c || a === c ) {
+	console.log("es isoseles");
+} else
+console.log("NO isoseles");
+
+
+  // Clear option
+  if (btn.textContent == "Clear") {
+    a.value = null;
+    b.value = null;
+    c.value = null;
+    btn.textContent = "Calculate";
+    A.innerHTML = null;
+    return;
+  }
+
+  // Operation
+  lado = Math.sqrt(Math.pow(a.value, 2) + Math.pow(b.value, 2));
+
+  // Print results
+  A.innerHTML = lado.toFixed(2);
+  btn.textContent = "Clear";
+}
+  </script>
+</html>
