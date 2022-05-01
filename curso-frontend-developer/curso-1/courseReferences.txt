@@ -1,9 +1,0 @@
-images & videos: https://www.pexels.com/
-tipos de texto fuente: https://fonts.google.com/
-Specificity Calculator https://specificity.keegan.st/
-referencials de html: https://htmlreference.io/
-referencials de html/css/js: https://www.w3schools.com/
-Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-Grids: https://css-tricks.com/snippets/css/complete-guide-grid/
-texto random: https://www.lipsum.com/
-Block Element Modifier: http://getbem.com/
