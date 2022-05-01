@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      autor="Juan Diaz"
+      year="2021"
+      name="description"
+      content="Exercise two, challenge: Smarter functions"
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="./tab.ico" />
+    <link rel="stylesheet" href="discountCupons.css" />
+    <title>Percentage & Discount</title>
+  </head>
+  <body>
+    <header>
+      <h1> &#128176 Percentage & Discount &#128176</h1>
+    </header>
+
+    <p class="title">Calculate Discount</p>
+    <section class="containerInput">
+      <form class="form">
+        <input
+          id="inputPrice"
+          type="number"
+          placeholder="How much is the producto?"
+        />
+        <input
+          id="inputDiscount"
+          type="number"
+          placeholder="what is the discount?"
+        />
+          <select class="cuponBox" name="Cupons" id="cupons">
+            <option value="0">Select Discount</option>
+            <option value="10">-10%</option>
+            <option value="25">-25%</option>
+            <option value="50">-50%</option>
+          </select>
+        <button type="button" onclick="onClickButtonPriceDiscount()">
+          Calcular
+        </button>
+      </form>
+    </section>
+
+    <section class="containerOutput">
+      <article class="item">
+        <div class="p1">
+          <h3 class="title">Product</h3>
+          <h3 id="displayPercentageDiscount">-00%</h3>
+        </div>
+        <div class="p2">
+          <h3 id="displayPrice" style="text-decoration: line-through">$0000</h3>
+          <h3 id="displayDiscount">$0000</h3>
+        </div>
+      </article>
+      <p class="displayValueDiscount" id="displayValueDiscount">
+        Esto es lo que haz ahorrado: &#128178
+      </p>
+    </section>
+    <footer>
+      &copy;
+      <script type="text/javascript">
+        document.write(new Date().getFullYear());
+      </script>
+      - Juan Diaz
+    </footer>
+    <script src="./discountCupons.js"></script>
+  </body>
+</html>
