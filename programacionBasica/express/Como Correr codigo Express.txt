@@ -1,0 +1,15 @@
+1. ver el video en:
+	https://platzi.com/clases/1050-programacion-basica/5129-primer-servidor-web-con-express/
+
+2. debo tener installado express en la misma carpeta
+	npm install express
+	
+3. correr el script q tengo guardado en "servidor.js"
+	node servidor.js
+
+4. Ir al browser y abrir pagina
+	http://localhost:8989
+	
+	http://localhost:8989/cursos
+	
+	http://127.0.0.1:8989/
