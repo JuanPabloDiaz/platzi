@@ -2,6 +2,8 @@
 
 # Platzi courses
 
+## I NEED TO FIX IT, THIS IS MY README FILE FOR ALL PLATZI COURSES!
+
 A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
 <!-- TABLE OF CONTENTS -->
