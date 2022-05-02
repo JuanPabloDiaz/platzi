@@ -78,6 +78,8 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
+- [Escuela de Desarrollo Web](https://platzi.com/web/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
