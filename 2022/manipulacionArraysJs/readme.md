@@ -1,14 +1,13 @@
 <div id="top"></div>
 
-# Introduction to React.js Course
+# Manipulation of Arrays in JavaScript Course
 
-This repo is part of a Platzi course called: "[Curso de Introducción a React.js](https://platzi.com/cursos/react/)".
+This repo is part of a Platzi course called: "[Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)".
 
-I learned React.js, the most popular JavaScript library for building interactive web applications! Worked with components, properties, state and effects. Store my data in Local Storage, implement React Context to communicate components, and teleport components with React Portals.
+I learned how to solve quickly and efficiently the algorithms by using and understanding arrays in JavaScript, from how to create them to the different methods they have.
 
 ## Challenge 🎲
-
-I created my first web project with React.
+text
 
 <!-- BUILD WITH -->
 
@@ -20,6 +19,8 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
     <a href="https://html.com/">HTML</a>
     ·
     <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
+    ·
+    <a href="https://www.javascript.com/">JS</a>
     </p>
 
 <!-- CONTENT -->
@@ -48,6 +49,7 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
+- [Escuela de Javascript](https://platzi.com/escuela-javascript/)
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
 Crea tu Portafolio como Web Developer 2022
