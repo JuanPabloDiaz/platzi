@@ -64,20 +64,26 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 
 I enjoy taking courses on Platzi on my spare time. I have learn a lot and developed many skills in the process. Here are some of the courses I took as well as the corresponded link with additional information.
 
-- [HTML](https://html.spec.whatwg.org/)
-- [CSS](https://www.w3.org/TR/CSS/#css)
-- [JS](https://www.javascript.com/)
-- [PHP](https://html.spec.whatwg.org/)
-- [Python](https://www.python.org/)
-- [Git](https://git-scm.com/doc)
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [HTML and CSS Definitive Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS)
+- [HTML and CSS Practical Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/practicoHTMLyCSS)
+- [Curso de Responsive Design: Maquetación Mobile First]()
+- [CSS Grid Basic Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/cssGridBasico)
+- [Curso Básico de JavaScript]()
+- [Curso Práctico de JavaScript]()
+- [ECMAScript 6+ Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/ecmaScript6)
+- [Manipulate Arrays in JavaScript Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/manipulacionArraysJs)
+- [Asynchronous JavaScript Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/asincronismoJs)
+- [REST API Consumption with JavaScript Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/consumoAPI_RESTconJs)
+- [Practical Course on REST API Consumption with JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/practicoConsumoAPI_RESTconJs)
+- [Introduction to React.js Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/introduccionReact.js)
+- [Curso Profesional de React Hooks]()
+- [Curso de React.js: Manejo Profesional del Estado]()
+- [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy)
+- []()
+- []()
+- []()
+
+
 <!-- LICENSE -->
 
 ## License 📜

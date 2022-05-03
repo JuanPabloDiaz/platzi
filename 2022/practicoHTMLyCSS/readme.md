@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# HTML and CSS Definitive Course
+# HTML and CSS Practical Course
 
 This repo is part of a Platzi course called: "[Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)". Now that I completed the **HTML and CSS Definitive Course** and I refreshed my knowledge on HTML and CSS. I am ready for this practical course. Creating pages using what I had learned on the other class.
 I also reinforce concepts such as positioning, box model, Display types, selectors such as classes, IDS, Flexbox and Grid.
