@@ -1,12 +1,14 @@
 <div id="top"></div>
 
-# ECMAScript 6+ Course
+# Introduction to React.js Course
 
-This repo is part of a Platzi course called: "[Curso de ECMAScript 6+](https://platzi.com/cursos/ecmascript-6/)".
+This repo is part of a Platzi course called: "[Curso de Introducción a React.js](https://platzi.com/cursos/react/)".
 
-JavaScript is the most used language for web application development, mainly in the frontend. Each year, ECMA International publishes a new edition of ECMAScript, the specification to which JavaScript conforms. I had the oportunity to learn about the new features that ECMAScript implements from version 6 to version 10.
+I learned React.js, the most popular JavaScript library for building interactive web applications! Worked with components, properties, state and effects. Store my data in Local Storage, implement React Context to communicate components, and teleport components with React Portals.
+
 ## Challenge 🎲
 
+I created my first web project with React.
 
 <!-- BUILD WITH -->
 
@@ -46,8 +48,6 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
-- [Escuela de JavaScript](https://platzi.com/escuela-javascript/)
-
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
 Crea tu Portafolio como Web Developer 2022
