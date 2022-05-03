@@ -45,3 +45,12 @@
 ### Media Armonica
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/31bb15ba938382149ac4d2ecda7479effc6ae4d6)
+
+## Acknowledgments 
+
+Resources list that I find helpful and would like to give credit to.
+
+- [Platzi](https://www.platzi.com/)
+- [Escuela de Javascript](https://platzi.com/escuela-javascript/)
+
+

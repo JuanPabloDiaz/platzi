@@ -25,4 +25,3 @@ I completed the course back on December 2021 and here is my [certificate](https:
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
-- [Escuela de Desarrollo Web](https://platzi.com/web/)

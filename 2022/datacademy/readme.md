@@ -25,3 +25,13 @@ In this repo you will find a final project in which I merged multiple skills I l
 - "Curso Básico de Python"
 - "Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda"
 - "Curso de Matemáticas para Data Science: Estadística Descriptiva"
+
+## Acknowledgments 📚
+
+Resources list that I find helpful and would like to give credit to.
+
+- [Platzi](https://www.platzi.com/)
+- [Bases de Datos desde Cero](https://platzi.com/db/)
+- [Escuela de Data Science e Inteligencia Artificial](https://platzi.com/datos/)
+
+
