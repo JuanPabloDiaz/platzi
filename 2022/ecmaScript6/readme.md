@@ -1,12 +1,10 @@
 <div id="top"></div>
 
-# CSS Grid Basic Course
+# ECMAScript 6+ Course
 
-This repo is part of a Platzi course called: "[Curso de CSS Grid Básico
-](https://platzi.com/cursos/css-grid)".
+This repo is part of a Platzi course called: "[Curso de ECMAScript 6+](https://platzi.com/cursos/ecmascript-6/)".
 
-I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply complex layouts to my own website with just a few lines of CSS code. As well as built grids to distribute the containers and HTML elements quickly.
-
+JavaScript is the most used language for web application development, mainly in the frontend. Each year, ECMA International publishes a new edition of ECMAScript, the specification to which JavaScript conforms. I had the oportunity to learn about the new features that ECMAScript implements from version 6 to version 10.
 ## Challenge 🎲
 
 
@@ -48,6 +46,8 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
+- [Escuela de JavaScript](https://platzi.com/escuela-javascript/)
+
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
 Crea tu Portafolio como Web Developer 2022
