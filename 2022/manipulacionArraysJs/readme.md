@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Manipulation of Arrays in JavaScript Course
+# Manipulate Arrays in JavaScript Course
 
 This repo is part of a Platzi course called: "[Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)".
 

@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Course: REST API Consumption with JavaScript
+# REST API Consumption with JavaScript Course
 
 This repo is part of a Platzi course called: "[Curso de Consumo de API REST con JavaScript](https://platzi.com/cursos/api/)". By doing this course, I learned how to consume a REST API with JavaScript. Discovered the communication flow between Frontend and Backend and made my first asynchronous requests using fetch.
 
