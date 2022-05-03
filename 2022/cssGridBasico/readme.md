@@ -5,7 +5,7 @@
 This repo is part of a Platzi course called: "[Curso de CSS Grid Básico
 ](https://platzi.com/cursos/css-grid)".
 
-Learn how to create dynamic layouts with CSS Grid! Apply complex layouts to your website with just a few lines of CSS code. Build grids to distribute your containers and HTML elements quickly with your teacher Estefany Salas.
+I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply complex layouts to my own website with just a few lines of CSS code. as well as Built grids to distribute my containers and HTML elements quickly.
 ## Challenge 🎲
 
 I built a Single Page Application with hash navigation. in which I created a movie browser from TheMovieDB.
