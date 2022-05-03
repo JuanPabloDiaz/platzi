@@ -5,10 +5,10 @@
 This repo is part of a Platzi course called: "[Curso de CSS Grid Básico
 ](https://platzi.com/cursos/css-grid)".
 
-I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply complex layouts to my own website with just a few lines of CSS code. as well as Built grids to distribute my containers and HTML elements quickly.
+I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply complex layouts to my own website with just a few lines of CSS code. As well as built grids to distribute the containers and HTML elements quickly.
+
 ## Challenge 🎲
 
-I built a Single Page Application with hash navigation. in which I created a movie browser from TheMovieDB.
 
 <!-- BUILD WITH -->
 
@@ -20,9 +20,7 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
     <a href="https://html.com/">HTML</a>
     ·
     <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-</p>
+    </p>
 
 <!-- CONTENT -->
 
@@ -50,7 +48,7 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
-- [Escuela de Javascript](https://platzi.com/escuela-javascript/)
+- [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
 Crea tu Portafolio como Web Developer 2022
 
