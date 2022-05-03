@@ -5,8 +5,7 @@
 This repo is part of a Platzi course called: "[Curso de CSS Grid Básico
 ](https://platzi.com/cursos/css-grid)".
 
-After I undestood the concepts learned on the "[Curso de Consumo de API REST con JavaScript](https://platzi.com/cursos/api/)". I decided to put into practice everything I just learned about consuming REST APIs with JavaScript by creating a project with a connection to a real API.
-
+Learn how to create dynamic layouts with CSS Grid! Apply complex layouts to your website with just a few lines of CSS code. Build grids to distribute your containers and HTML elements quickly with your teacher Estefany Salas.
 ## Challenge 🎲
 
 I built a Single Page Application with hash navigation. in which I created a movie browser from TheMovieDB.
