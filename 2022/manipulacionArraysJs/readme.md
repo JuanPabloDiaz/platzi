@@ -1,13 +1,15 @@
 <div id="top"></div>
 
-# HTML and CSS Definitive Course
+# Introduction to React.js Course
 
-This repo is part of a Platzi course called: "[Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)". Now that I completed the **HTML and CSS Definitive Course** and I refreshed my knowledge on HTML and CSS. I am ready for this practical course. Creating pages using what I had learned on the other class.
-I also reinforce concepts such as positioning, box model, Display types, selectors such as classes, IDS, Flexbox and Grid.
+This repo is part of a Platzi course called: "[Curso de Introducción a React.js](https://platzi.com/cursos/react/)".
+
+I learned React.js, the most popular JavaScript library for building interactive web applications! Worked with components, properties, state and effects. Store my data in Local Storage, implement React Context to communicate components, and teleport components with React Portals.
 
 ## Challenge 🎲
 
-I developed some projects but the most challenging was to **clone the Google page**. 
+I created my first web project with React.
+
 <!-- BUILD WITH -->
 
 ### Built With 🔑
@@ -18,9 +20,7 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
     <a href="https://html.com/">HTML</a>
     ·
     <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-</p>
+    </p>
 
 <!-- CONTENT -->
 
