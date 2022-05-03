@@ -1,13 +1,19 @@
 <div id="top"></div>
 
-# HTML and CSS Definitive Course
+# REST API Consumption Course with JavaScript
 
-This repo is part of a Platzi course called: "[Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)". Now that I completed the **HTML and CSS Definitive Course** and I refreshed my knowledge on HTML and CSS. I am ready for this practical course. Creating pages using what I had learned on the other class.
-I also reinforce concepts such as positioning, box model, Display types, selectors such as classes, IDS, Flexbox and Grid.
+This repo is part of a Platzi course called: "[Curso Práctico de Consumo de API REST con JavaScript](https://platzi.com/cursos/api-practico/)".
+
+Once I completed the "[Curso de Consumo de API REST con JavaScript](https://platzi.com/cursos/api/)"
+
+By doing this course, I learned how to consume a REST API with JavaScript. Discovered the communication flow between Frontend and Backend and made my first asynchronous requests using fetch.
+
+Put into practice everything you know about consuming REST APIs with JavaScript to create a project with a connection to a real API. Build a Single Page Application with hash navigation. Create a movie browser from TheMovieDB
 
 ## Challenge 🎲
 
-I developed some projects but the most challenging was to **clone the Google page**. 
+I developed...
+
 <!-- BUILD WITH -->
 
 ### Built With 🔑
@@ -48,7 +54,7 @@ Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"
 Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
-- [Escuela de Desarrollo Web](https://platzi.com/web/)
+- [Escuela de Javascript](https://platzi.com/escuela-javascript/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
 Crea tu Portafolio como Web Developer 2022
 
