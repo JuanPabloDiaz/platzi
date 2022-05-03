@@ -60,6 +60,24 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
   </p>
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
+### Courses 
+
+I enjoy taking courses on Platzi on my spare time. I have learn a lot and developed many skills in the process. Here are some of the courses I took as well as the corresponded link with additional information.
+
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3.org/TR/CSS/#css)
+- [JS](https://www.javascript.com/)
+- [PHP](https://html.spec.whatwg.org/)
+- [Python](https://www.python.org/)
+- [Git](https://git-scm.com/doc)
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Angular](https://angular.io/)
+- [Svelte](https://svelte.dev/)
+- [Laravel](https://laravel.com)
+- [Bootstrap](https://getbootstrap.com)
+- [JQuery](https://jquery.com)
 <!-- LICENSE -->
 
 ## License 📜
