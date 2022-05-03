@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# CSS Grid Basic Course
+# Course: CSS Grid Basic
 
 This repo is part of a Platzi course called: "[Curso de CSS Grid Básico
 ](https://platzi.com/cursos/css-grid)".

@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Asynchronicity course with JavaScript
+# Course: Asynchronicity with JavaScript
 
 This repo is part of a Platzi course called: "[Curso de Asincronismo con JavaScript](https://platzi.com/cursos/asincronismo-js/)". This course provided the fundamental concepts of asynchrony with JavaScript, apply its different structures and develop asynchronous solutions.
 
