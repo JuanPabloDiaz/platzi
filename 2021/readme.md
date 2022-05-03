@@ -54,6 +54,7 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 - [Curso Básico de JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico)
 - [Curso Práctico de JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/practicoJavascript)
 - [Curso de frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper)
+- [Git and Github](https://github.com/JuanPabloDiaz/hyperblog)
 
 
 <!-- LICENSE -->
