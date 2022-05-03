@@ -1,13 +1,14 @@
 <div id="top"></div>
 
-# HTML and CSS Definitive Course
+# React Hooks Professional Course
 
-This repo is part of a Platzi course called: "[Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)". Now that I completed the **HTML and CSS Definitive Course** and I refreshed my knowledge on HTML and CSS. I am ready for this practical course. Creating pages using what I had learned on the other class.
-I also reinforce concepts such as positioning, box model, Display types, selectors such as classes, IDS, Flexbox and Grid.
+This repo is part of a Platzi course called: "[Curso Profesional de React Hooks](https://platzi.com/cursos/react-hooks/)".
+
+Developed web applications with React Hooks. Integrate tools like Strapi, PayPal and Google Maps to develop an online store with shopping cart. Incorporate functional components or functional components in the projects.
 
 ## Challenge 🎲
+text
 
-I developed some projects but the most challenging was to **clone the Google page**. 
 <!-- BUILD WITH -->
 
 ### Built With 🔑
@@ -20,7 +21,7 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
     <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
     ·
     <a href="https://www.javascript.com/">JS</a>
-</p>
+    </p>
 
 <!-- CONTENT -->
 
