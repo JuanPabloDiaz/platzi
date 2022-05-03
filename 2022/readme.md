@@ -66,7 +66,7 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 
 - [HTML and CSS Definitive Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS)
 - [HTML and CSS Practical Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/practicoHTMLyCSS)
-- [Curso de Responsive Design: Maquetación Mobile First]()
+- [Responsive Design Course: Mobile First Layout](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/responsiveDesignMaquetacionMobileFirst)
 - [CSS Grid Basic Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/cssGridBasico)
 - [Curso Básico de JavaScript]()
 - [Curso Práctico de JavaScript]()
@@ -77,11 +77,11 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 - [Practical Course on REST API Consumption with JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/practicoConsumoAPI_RESTconJs)
 - [Introduction to React.js Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/introduccionReact.js)
 - [Curso Profesional de React Hooks]()
-- [Curso de React.js: Manejo Profesional del Estado]()
+- [React Hooks Professional Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/profesionalReactHooks)
 - [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy)
+<!-- - []()
 - []()
-- []()
-- []()
+- []() -->
 
 
 <!-- LICENSE -->
