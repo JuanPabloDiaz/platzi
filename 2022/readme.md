@@ -68,8 +68,6 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 - [HTML and CSS Practical Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/practicoHTMLyCSS)
 - [Responsive Design Course: Mobile First Layout](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/responsiveDesignMaquetacionMobileFirst)
 - [CSS Grid Basic Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/cssGridBasico)
-- [Curso Básico de JavaScript]()
-- [Curso Práctico de JavaScript]()
 - [ECMAScript 6+ Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/ecmaScript6)
 - [Manipulate Arrays in JavaScript Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/manipulacionArraysJs)
 - [Asynchronous JavaScript Course](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/asincronismoJs)

@@ -37,6 +37,7 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 <!-- - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/TR/CSS/#css)
 - [JS](https://www.javascript.com/) -->
+
 <p align="center">
     <a href="https://html.com/">HTML</a>
     ·
@@ -45,19 +46,31 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
     <a href="https://www.javascript.com/">JS</a>
   </p>
 
+### Courses 
+
+I enjoy taking courses on Platzi on my spare time. I have learn a lot and developed many skills in the process. Here are some of the courses I took as well as the corresponded link with additional information.
+
+- [Curso de Programación Básica.](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/programacionBasica)
+- [Curso Básico de JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico)
+- [Curso Práctico de JavaScript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/practicoJavascript)
+- [Curso de frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper)
+
+
 <!-- LICENSE -->
 
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTACT -->
 
 ## Contact 📞
 
-- Platzi link: [2021-Platzi](https://github.com/JuanPabloDiaz/2021-Platzi) | [2022-Platzi](https://github.com/JuanPabloDiaz/2022-Platzi)
+- Platzi link: [2021](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 
-- Juan Diaz - <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
+- Juan Diaz <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
   <a href="mailto:jdiaz028@email.cpcc.edu" title="email"><img src="https://th.bing.com/th/id/R.c1788ceb22d4f2c44e1ebba0baa045f0?rik=Xgo0FJUU748GNQ&riu=http%3a%2f%2fwww.add-tek.com%2fwp-content%2fuploads%2f2019%2f05%2femail-icon.png&ehk=43jcVRhbG574owWTo3L146ImtAi%2b2i8D84wPIcvuyAc%3d&risl=&pid=ImgRaw&r=0" width="20" alt="email" /></a>
 
