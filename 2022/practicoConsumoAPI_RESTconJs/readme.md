@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# REST API Consumption Course with JavaScript
+# Practical Course on REST API Consumption with JavaScript
 
 This repo is part of a Platzi course called: "[Curso Práctico de Consumo de API REST con JavaScript](https://platzi.com/cursos/api-practico/)".
 
