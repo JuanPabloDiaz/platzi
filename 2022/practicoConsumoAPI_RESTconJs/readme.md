@@ -4,15 +4,11 @@
 
 This repo is part of a Platzi course called: "[Curso Práctico de Consumo de API REST con JavaScript](https://platzi.com/cursos/api-practico/)".
 
-Once I completed the "[Curso de Consumo de API REST con JavaScript](https://platzi.com/cursos/api/)"
-
-By doing this course, I learned how to consume a REST API with JavaScript. Discovered the communication flow between Frontend and Backend and made my first asynchronous requests using fetch.
-
-Put into practice everything you know about consuming REST APIs with JavaScript to create a project with a connection to a real API. Build a Single Page Application with hash navigation. Create a movie browser from TheMovieDB
+After I undestood the concepts learned on the "[Curso de Consumo de API REST con JavaScript](https://platzi.com/cursos/api/)". I decided to put into practice everything I just learned about consuming REST APIs with JavaScript by creating a project with a connection to a real API.
 
 ## Challenge 🎲
 
-I developed...
+I built a Single Page Application with hash navigation. Create a movie browser from TheMovieDB
 
 <!-- BUILD WITH -->
 
