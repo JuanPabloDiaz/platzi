@@ -8,7 +8,7 @@ After I undestood the concepts learned on the "[Curso de Consumo de API REST con
 
 ## Challenge 🎲
 
-I built a Single Page Application with hash navigation. Create a movie browser from TheMovieDB
+I built a Single Page Application with hash navigation. in which I created a movie browser from TheMovieDB.
 
 <!-- BUILD WITH -->
 
