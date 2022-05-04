@@ -1,6 +1,7 @@
 <div id="top"></div>
+    
 
-# Platzi courses
+# <img src="platziLogo.png" alt="Logo"> Platzi courses
 
 ## I NEED TO FIX IT, THIS IS MY README FILE FOR ALL PLATZI COURSES!
 
