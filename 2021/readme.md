@@ -21,6 +21,16 @@ A variety of courses, assigments and many more activities developed using Platzi
   </ol>
 </details>
 
+1. [Description.](#desc)
+2. [Usage tips.](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
+sometext
+
+
+
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
@@ -107,3 +117,9 @@ Resources list that I find helpful and would like to give credit to.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
