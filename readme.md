@@ -1,5 +1,4 @@
 <div id="top"></div>
-    
 
 # <img src="platziLogo.png" alt="Logo"> Platzi courses
 
