@@ -6,16 +6,13 @@
 
 A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
+XXXX
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#Description">Description</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#Description">Description</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -29,11 +26,6 @@ A variety of courses, assigments and many more activities developed using Platzi
 There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on.
 
 I started taking classes on September and completed over 25 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
-
-### Built With 🔑
-
-This project is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets
-(CSS) but also has some Javascript (JS).
 
 <!-- - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/TR/CSS/#css)
