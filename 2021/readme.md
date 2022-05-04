@@ -9,12 +9,12 @@ A variety of courses, assigments and many more activities developed using Platzi
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Description">Description</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
+    <li><a href="#Courses">Courses</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -46,7 +46,7 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
     <a href="https://www.javascript.com/">JS</a>
   </p>
 
-### Courses 
+## Courses 💻
 
 I enjoy taking courses on Platzi on my spare time. I have learn a lot and developed many skills in the process. Here are some of the courses I took as well as the corresponded link with additional information.
 
