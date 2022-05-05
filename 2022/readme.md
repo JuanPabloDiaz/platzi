@@ -23,6 +23,17 @@ I had the oportunity to take a few challenges and learn new skills along the way
 This project is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets
 (CSS) but also has some Javascript (JS).
 
+<!-- DROP DOWN -->
+<details>
+  <summary><b>Tools</b></summary>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
+
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/TR/CSS/#css)
 - [JS](https://www.javascript.com/)
