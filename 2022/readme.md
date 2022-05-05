@@ -13,6 +13,9 @@ There are many great concepts I learned with Platzi, many new skills I developed
 
 I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary 2022 with over 46 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
 
+----
+Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. I had the oportunity to take several
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With 🔑
