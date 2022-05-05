@@ -9,9 +9,7 @@ A variety of courses, assigments and many more activities developed using Platzi
 
 ## Description 💡
 
-There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on.
-
-I started taking classes on September and completed over 25 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
+There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on. To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
 
 ### Built With 🔑
 

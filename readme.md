@@ -6,20 +6,17 @@
 
 This repo is a consolidation of all my education progress using [Platzi](https://platzi.com) as my main source of information. It has a variety of courses, assigments, challenges and many more activities developed over the years.
 
-XXXX
-
-
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
 
-There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on.
+XXXX
 
-I started taking classes on September and completed over 25 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
+ ### Courses & Certifications
 
----
+ To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
 
-I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary 2022 with over 46 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
+### Platzi Challenges
 
 Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network. 
 

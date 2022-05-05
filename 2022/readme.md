@@ -2,7 +2,7 @@
 
 # <img src="../platziLogo.png" alt="Logo"> Platzi courses | 2022
 
-A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
+A variety of courses, assigments and many more activities developed using [Platzi](https://platzi.com) as my main source of information.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -11,7 +11,7 @@ A variety of courses, assigments and many more activities developed using Platzi
 
 There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on.
 
-I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary 2022 with over 46 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
+I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary 2022 with over 46 courses. To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
 
 Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network. 
 
