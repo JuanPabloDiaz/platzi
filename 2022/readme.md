@@ -13,9 +13,9 @@ There are many great concepts I learned with Platzi, many new skills I developed
 
 I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary 2022 with over 46 courses. To find more about the courses and certificates please click [here](https://platzi.com/p/DiazJuan/).
 
-----
-Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and create a network. 
-I had the oportunity to take a few challenges and learn new skills along the way.
+Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network. 
+
+I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
