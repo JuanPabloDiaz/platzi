@@ -4,32 +4,6 @@
 
 A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Description">Description</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#Courses">Courses</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-1. [Description.](#desc)
-2. [Usage tips.](#usage)
-
-<a name="desc"></a>
-## 1. Description
-
-sometext
-
-
 
 <!-- ABOUT THE PROJECT -->
 
@@ -117,9 +91,3 @@ Resources list that I find helpful and would like to give credit to.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-
-
-<a name="usage"></a>
-## 2. Usage tips
-
-sometext
