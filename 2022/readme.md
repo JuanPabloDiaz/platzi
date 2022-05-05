@@ -17,7 +17,6 @@ Platzi Challenges are another great idea that Platzi has to keep student motivat
 
 I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With 🔑
 
@@ -76,7 +75,7 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- CONTACT -->
 
@@ -102,7 +101,8 @@ Resources list that I find helpful and would like to give credit to.
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 - [Git doc](https://git-scm.com/doc)
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
