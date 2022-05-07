@@ -10,7 +10,11 @@
 	padding: 0;
 	box-sizing: border-box;
   }
-  
+
+  /* html {
+	font-size: 62.5%;
+  } */
+
   body{
 	font-family: 'Roboto' ,sans-serif;
   }
@@ -23,12 +27,13 @@
 	text-decoration: none;
 	color: rgb(211, 171, 119);
   }
-  
+
   .header{
 	display: flex;
 	justify-content: space-between;
 	padding: 15px;
 	background-color: rgba(0, 0, 0, 0.644);
+	flex-wrap: wrap;
   }
   
   .header--logo{
