@@ -33,6 +33,8 @@ I had the oportunity to take a few challenges and learn new skills along the way
     <a href="https://www.javascript.com/">JS</a>
   </p>
 
+  <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Buscar donde meter este link o como usar los links de esta pagina, me parecen claves</a>
+
 <!-- LICENSE -->
 
 ## License 📜
