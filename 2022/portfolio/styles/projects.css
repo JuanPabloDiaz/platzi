@@ -1,3 +1,21 @@
+.container--flex {
+	border: 0.3rem solid black;
+	display: flex;
+	flex-wrap: wrap;
+  }
+  .box {
+	flex-basis: 10rem;
+	flex-grow: 1;
+  }
+  .box1 {
+	background-color: blue;
+  }
+  .box2 {
+	background-color: blueviolet;
+  }
+  
+
+/* end flex test */
 .project-list li {
 	width: 300px;
 	border: 1px solid black;
@@ -16,9 +34,19 @@
 	padding: 10px;
   }
   
-  .project--technology{
+  .project--tool{
 	padding: 5px 10px;
 	border-radius: 15px;
 	background-color: rgba(0, 0, 0, 0.2);
   }
   
+  .project--details {
+	padding:  5px;
+	border-radius: 15px;
+	background-color:darkkhaki;
+	text-align: right;
+	
+  }
+  .project--details a {
+color:darkgoldenrod;  
+}
