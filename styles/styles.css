@@ -14,16 +14,17 @@
   
   a{
 	text-decoration: none;
-	color: #000;
+	color: rgb(211, 171, 119);
   }
   
   .header{
 	display: flex;
 	justify-content: space-between;
 	padding: 15px;
+	background-color: rgba(0, 0, 0, 0.644);
   }
   
-  .header--img{
+  .header--logo{
 	width: 30px;
 	height: 30px;
   }
@@ -34,64 +35,9 @@
 	width: 300px;
   }
   
+  .header a{
+	color: white;
+  }
   .header a:hover{
 	text-decoration: underline;
   }
-  
-  .main--container{
-	display: flex;
-	width: 75%;
-	margin: 20px auto;
-	justify-content: space-between;
-  }
-  
-  main .main--container .main--img{
-	width: 300px;
-	border-radius: 15px;
-	padding: 10px;
-  }
-  
-  .main--info{
-	width: 50%;
-  }
-  
-  .info--name{
-	font-size: 22px;
-	margin-bottom: 15px;
-  }
-  
-  .info--description{
-	font-size: 18px;
-	margin-bottom: 10px;
-  }
-  
-  .main--links{
-	margin: 20px 0;
-  }
-  
-  .main--link{
-	padding: 10px 20px;
-	border-radius: 10px;
-	margin: 10px 5px;
-  }
-  
-  .main--link__salmon{
-	background-color: salmon;
-	color: white;
-  }
-  
-  .main--link__transparent{
-	text-decoration: underline;
-	color: black;
-  }
-  
-  .main--social-media{
-	display: flex;
-	align-items: center;
-  }
-  
-  .main--social-media h2{
-	font-size: 16px;
-	margin-right: 10px;
-  }
-  
