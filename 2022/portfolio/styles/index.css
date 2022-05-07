@@ -16,12 +16,12 @@
   }
   
   .info--name{
-	font-size: 22px;
+	font-size: var( --font_large);
 	margin-bottom: 15px;
   }
   
   .info--description{
-	font-size: 18px;
+	font-size: var( --font_normal);
 	margin-bottom: 10px;
   }
   
@@ -51,7 +51,7 @@
   }
   
   .main--social-media h2{
-	font-size: 16px;
+	font-size: var( --font_small);
 	margin-right: 10px;
   }
   

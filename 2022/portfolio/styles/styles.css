@@ -2,7 +2,10 @@
 	--primary-color: #003476;
 	--secundary-color: #b4d2f7;
 	--header-size: 4rem;
-	--font: 1.8rem;
+		/* https://nekocalc.com/px-to-rem-converter */
+	--font_large: 3rem; 
+	--font_normal: 2rem;
+	--font_small: 1rem;
   }
   
   *{
@@ -11,9 +14,12 @@
 	box-sizing: border-box;
   }
 
-  /* html {
+   /* BUENAS PRACTICAS PARA ACCESIBILIDAD DE TEXTO */
+  
+  html {
 	font-size: 62.5%;
-  } */
+  }
+  /* End Buenas practicas */
 
   body{
 	font-family: 'Roboto' ,sans-serif;
@@ -26,6 +32,7 @@
   a{
 	text-decoration: none;
 	color: rgb(211, 171, 119);
+	font-size: var( --font_normal);
   }
 
   .header{
