@@ -1,30 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Portflio</title>
-    <meta name="description" content="This is My Portfolio" />
+    <title>Juan's Portfolio | About</title>
+    <meta name="description" content="Juan's Portfolio since 2022" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
     <meta name="author" content="Juan Diaz" />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="./styles/index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/1db2702c51.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
+
   <body>
-    <header>
-      <nav>
-        <ul>
+    <header class="header">
+      <img class="header--logo" src="https://picsum.photos/100" alt="Logo JP" />
+      <a href="./">Home</a>
+      <nav class="header--nav">
+        <ul class="header--list">
           <li>
             <a href="./contact.html">Contact</a>
           </li>
           <li>
             <a href="./blog.html">Blog</a>
           </li>
-          <li><a href="./projects.html">Projects</a></li>
-          <li><a href="./about.html">About</a></li>
+          <li>
+            <a href="./projects.html">Projects</a>
+          </li>
+          <li>
+            <a href="./about.html">About</a>
+          </li>
         </ul>
       </nav>
     </header>
-    <h1>ABOUT</h1>
+    <main class="main">
+      <div class="main--container">
+        <picture class="img-container">
+          <img
+            class="main--img"
+            src="https://picsum.photos/200"
+            alt="Mi foto de perfil"
+          />
+        </picture>
+        <div class="main--info">
+          <h2 class="info--name">Juan Diaz Frontend developer</h2>
+          <p class="info--description">This is the ABOUT section</p>
+          <div class="main--links">
+            <a class="main--link main--link__salmon" href="./contact.html"
+              >Contact</a
+            >
+            <a class="main--link main--link__transparent" href="./about.html"
+              >About</a
+            >
+          </div>
+          <div class="main--social-media">
+            <h2>Follow me on</h2>
+            <ul>
+              <li>
+                <a href="https://twitter.com/1diazdev">Twitter</a>
+                <a href="https://www.linkedin.com/in/juandiaz-col/">Linkedin</a>
+                <a href="https://resume.creddle.io/resume/9um4zrxd89s"
+                  >Resume</a
+                >
+                <span> **add fontawesome** </span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <p>Designed by Juan Diaz &copy;2020</p>
+      </footer>
+    </main>
   </body>
 </html>

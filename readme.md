@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# <img src="platziLogo.png" alt="Logo"> Platzi courses
+# <img src="./assets/platziLogo.png" alt="Logo"> Platzi courses
 
 ## I NEED TO FIX IT, THIS IS MY README FILE FOR ALL PLATZI COURSES!
 

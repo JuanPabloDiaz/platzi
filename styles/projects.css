@@ -2,6 +2,9 @@
 	border: 0.3rem solid black;
 	display: flex;
 	flex-wrap: wrap;
+	margin: 5px;
+	padding: 5px;
+	background-color: rgba(255, 228, 196, 0.459);
   }
   .box {
 	flex-basis: 10rem;
@@ -20,7 +23,9 @@
 	width: 300px;
 	border: 1px solid black;
 	border-radius: 15px; 
-	font-size: 14px
+	font-size: 14px;
+	background-color: aliceblue;
+	margin: 1%;
   }
   
   .project--img{

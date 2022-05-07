@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# <img src="../platziLogo.png" alt="Logo"> Platzi courses | 2022
+# <img src="../assets/platziLogo.png" alt="Logo"> Platzi courses | 2022
 
 A variety of courses, assigments and many more activities developed using [Platzi](https://platzi.com) as my main source of information.
 
