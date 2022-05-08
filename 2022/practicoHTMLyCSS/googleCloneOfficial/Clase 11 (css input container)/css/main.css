@@ -1,9 +1,11 @@
+/* HEADER */
 body {
     margin: 0;
     padding: 0;
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 a {
     text-decoration: none;
     cursor: pointer;
@@ -17,6 +19,7 @@ header nav {
     display: flex;
     justify-content: flex-end;
 }
+
 header nav .nav-right-section {
     width: 250px;
     height: auto;
@@ -29,6 +32,9 @@ nav .nav-right-section a {
     margin-right: 10px;
     color: #000000;
 }
+/* END HEADER */
+
+/* ICONS & PICTURE */
 nav .nav-right-section .menu-icon {
     background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
@@ -40,10 +46,15 @@ nav .nav-right-section .menu-icon {
 nav .nav-right-section img {
     border-radius: 50%;
     margin-left: 10px;
+    width: 25px;
+    height: 25px;
 }
+/* END ICONS & PICTURE */
+
+/* MAIN */
 
 main {
-    margin-top: 150px;
+    margin-top: 15%;
     text-align: center;
 }
 main .main-logo {
@@ -54,6 +65,9 @@ main .main-logo {
 main .main-logo img {
     width: 300px;
 }
+/* END LOGO MAIN */
+
+/* SEARCH BAR! */
 
 main .main-input {
     width: 530px;
@@ -74,3 +88,4 @@ main .main-input input {
     border: none;
     outline: none;
 }
+/* END SEARCH BAR! */
