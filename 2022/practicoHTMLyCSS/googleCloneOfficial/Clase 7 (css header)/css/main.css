@@ -9,6 +9,7 @@ body {
 header {
     width: 100%;
     height: 60px;
+    background-color: silver;
 }
 header nav {
     display: flex;

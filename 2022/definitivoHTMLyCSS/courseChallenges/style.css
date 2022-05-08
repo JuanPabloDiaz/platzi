@@ -7,18 +7,29 @@
 /* END RESET BROWSER */
 
 /* NAV BAR */
-.nav {
+header {
+  width: 100%;
   background-color: peachpuff;
-  padding: 20px;
+/* height: 60px; */
+}
+header .nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px;
   list-style: none;
   text-align: center;
 }
 .nav li {
-  display: inline-block;
+
   font-size: 20px;
   margin: 10px 0;
   padding-left: 20px;
   padding-right: 20px;
+}
+header .logo {
+  display:flex;
+  flex-wrap: wrap;
+  background-color: aqua;
 }
 /* END NAV BAR */
 
