@@ -91,6 +91,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact 📞
 
+[]()
+![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+
 - Platzi link: [2021](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) | [2022](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
 
 - Juan Diaz <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
