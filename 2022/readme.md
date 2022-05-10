@@ -30,12 +30,12 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-  <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-  <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-  <a href=""><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node js"></a>
-  <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+  <a href="https://www.w3schools.com/whatis/whatis_css.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="https://www.w3schools.com/whatis/whatis_js.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
+  <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node js"></a>
+  <a href="https://www.w3schools.com/whatis/whatis_react.asp"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+  <a href="https://git-scm.com/docs"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href=""><img src="" alt=""></a>
   <a href=""><img src="" alt=""></a>
   <a href=""><img src="" alt=""></a>
@@ -44,13 +44,8 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
   <a href=""><img src="" alt=""></a>
   <a href=""><img src="" alt=""></a>
 
-- [CSS](https://www.w3.org/TR/CSS/#css)
-- [JS](https://www.javascript.com/)
 - [PHP](https://html.spec.whatwg.org/)
 - [Python](https://www.python.org/)
-- [Git](https://git-scm.com/doc)
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Angular](https://angular.io/)
 - [Svelte](https://svelte.dev/)
