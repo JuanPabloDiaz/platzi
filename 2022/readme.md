@@ -33,7 +33,9 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffca28)](https://www.w3schools.com/python/default.asp)
 [![Vue.js](https://img.shields.io/badge/Vue-184D66?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.w3schools.com/whatis/whatis_vue.asp)
 [![Angular](https://img.shields.io/badge/Angular-222?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://www.w3schools.com/whatis/whatis_angularjs.asp)
-[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
+[![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
+
 
 ---
 
@@ -46,6 +48,7 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 https://www.youtube.com/watch?v=Dl-ekLb4quE 
 https://simpleicons.org/  -->
 
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://www.docker.com/)
 [![Jest](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ]()
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ]()
