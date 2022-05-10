@@ -46,7 +46,8 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 
 <!-- How to edit the links:
 https://www.youtube.com/watch?v=Dl-ekLb4quE 
-https://simpleicons.org/  -->
+https://simpleicons.org/ 
+https://www.w3schools.com/whatis/whatis_fullstack.asp -->
 
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://www.docker.com/)
 [![Jest](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
