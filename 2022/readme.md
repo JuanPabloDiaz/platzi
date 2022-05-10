@@ -29,10 +29,16 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/default.asp)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/whatis/whatis_react.asp)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=000000)](https://www.w3schools.com/php/default.asp)
+
+[![Python]()]()
+[![Vue.js]()]()
+[![Angular]()]()
+[![Svelte]()]()
+[![Laravel]()]()
+[![Bootstrap]()]()
+[![JQuery]()]()
 [![]()]()
 [![]()]()
 [![]()]()
@@ -45,28 +51,6 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
-
-
-
-
-
-- [PHP](https://html.spec.whatwg.org/)
-- [Python](https://www.python.org/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
-
-<!-- <p align="center">
-    <a href="https://html.com/">HTML</a>
-    ·
-    <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-  </p>
-<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 ## Courses 💻
 
