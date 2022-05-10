@@ -24,16 +24,9 @@ Platzi Challenges are another great idea that Platzi has to keep student motivat
 
 I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
-<!-- - [HTML](https://html.spec.whatwg.org/)
-- [CSS](https://www.w3.org/TR/CSS/#css)
-- [JS](https://www.javascript.com/) -->
-<p align="center">
-    <a href="https://html.com/">HTML</a>
-    ·
-    <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-  </p>
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
 
   <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Buscar donde meter este link o como usar los links de esta pagina, me parecen claves</a>
 
