@@ -16,17 +16,9 @@ There are many great concepts I learned with Platzi, many new skills I developed
 This project is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets
 (CSS) but also has some Javascript (JS).
 
-<!-- - [HTML](https://html.spec.whatwg.org/)
-- [CSS](https://www.w3.org/TR/CSS/#css)
-- [JS](https://www.javascript.com/) -->
-
-<p align="center">
-    <a href="https://html.com/">HTML</a>
-    ·
-    <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-  </p>
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
 
 ## Courses 💻
 
