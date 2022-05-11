@@ -40,7 +40,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact 📞
 
-- Platzi link: [2021](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) | [2022](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+
+<!-- - Platzi link: [2021](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) | [2022](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) -->
 
 - Juan Diaz <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
