@@ -101,13 +101,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
 [![](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
 
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
+
 [![](https://img.shields.io/badge/Platzi-2022-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)]()
 
 
 
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/1diazdev?label=@1diazdev)
-
   ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)
     
   
