@@ -9,7 +9,10 @@ A variety of courses, assigments and many more activities developed using Platzi
 
 ## Description 💡
 
-There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on. To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
+There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on. To find more about the courses I took and the certificates I have please click on:
+
+[![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
+
 
 ### Built With 🔑
 
@@ -43,11 +46,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact 📞
 
-- Platzi link: [2021](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+## Contact 📞
 
-- Juan Diaz <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
-  <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
-  <a href="mailto:jdiaz028@email.cpcc.edu" title="email"><img src="https://th.bing.com/th/id/R.c1788ceb22d4f2c44e1ebba0baa045f0?rik=Xgo0FJUU748GNQ&riu=http%3a%2f%2fwww.add-tek.com%2fwp-content%2fuploads%2f2019%2f05%2femail-icon.png&ehk=43jcVRhbG574owWTo3L146ImtAi%2b2i8D84wPIcvuyAc%3d&risl=&pid=ImgRaw&r=0" width="20" alt="email" /></a>
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+
+[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+[![](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
+
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
+
+
+  ![Twitter Follow](https://img.shields.io/twitter/follow/1diazdev?label=@1diazdev)
+  ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)
+    
 
 <!-- ACKNOWLEDGMENTS -->
 

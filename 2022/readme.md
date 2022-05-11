@@ -107,8 +107,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [![](https://img.shields.io/badge/Platzi-2022-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)]()
 
-
-
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/1diazdev?label=@1diazdev)
   ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)
