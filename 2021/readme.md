@@ -46,8 +46,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact 📞
 
-## Contact 📞
-
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 
