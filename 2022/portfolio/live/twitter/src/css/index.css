@@ -87,16 +87,22 @@
   }
 
   .footer--list li a{
-	  
 	color: #536471;
   }
 
     /* JP version */
 	.footer--list a {
 		margin: 5px 10px;
-	  }
-	  .footer--list a span{
-		  
+	}
+	
+	.footer--list a span{
 		color: #536471;
-	  }
+	}
+
+	.footer--list__year {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 	  /* JP version end */
