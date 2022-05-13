@@ -4,8 +4,8 @@
   
   .header--icon{
 	color: var(--brand-color);
-	font-size: 30px;
-  }
+	font-size: 3rem;
+}
   
   .header--icon__white{
 	color: white;
@@ -13,24 +13,39 @@
   }
   
   .main--titles{
-	margin: 20px;
+	margin: 20px 0;
 	font-weight: 700;
 	width: 40%;
+	max-width: 300px;
   }
-  
+    
   h1.titles--title{
-	font-size: 34px;
-	margin-bottom: 15px;
-  }
-  
+	  font-size: 3.4rem;
+	  margin-bottom: 15px;
+	}
+	
+	/* .main--hero{
+	  width: 90%;
+	  margin: 0 auto;
+	} */
+
+.main--buttons{
+	width: 80%;
+	min-width: 300px;
+	}
+
   .main--button{
 	padding: 10px;
 	border: 0;
 	border-radius: 15px;
-	font-size: 18px;
-	margin: 10px;
-	width: 300px;
+	font-size: 1.8rem;
+	margin: 10px 0;
+	width: 100%;
+	text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
   }
+  
   .main--button--icon {
 padding: 5px;
   }

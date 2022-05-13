@@ -1,5 +1,6 @@
 :root{
 	--brand-color: #1d9bf0;
+  --gray-color: #cfd9de;
   --gray: #536471;
   }
   
@@ -7,6 +8,10 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+  }
+  
+  html{
+    font-size: 62.5%;
   }
   
   a{
