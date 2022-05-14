@@ -1,0 +1,13 @@
+.main {
+	border: 5px solid #9bcacc;
+background-color: bisque;
+display: grid;
+gap: 20px;
+grid-template-rows: 150px 150px 150px;
+grid-auto-columns: 150px;
+grid-auto-flow: column;
+}
+.item {
+	border: 5px solid #b6b6c2;
+	font-size: 4rem;
+}
