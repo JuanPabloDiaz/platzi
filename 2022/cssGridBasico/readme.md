@@ -9,7 +9,6 @@ I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply
 
 ## Challenge 🎲
 
-
 <!-- BUILD WITH -->
 
 ### Built With 🔑
