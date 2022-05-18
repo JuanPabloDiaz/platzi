@@ -9,7 +9,7 @@
   
   .header--icon__white{
 	color: white;
-	font-size: 200px;
+	font-size: 20rem;
   }
   
   .main--titles{
@@ -69,7 +69,7 @@ padding: 5px;
   }
   
   .main--text{
-	font-size: 10px;
+	font-size: 1rem;
 	width: 45%;
 	margin: 5px 20px 20px;
 	color: var(--gray);
@@ -95,7 +95,7 @@ padding: 5px;
   .footer{
 	width: 100%;
 	padding: 20px;
-	font-size: 12px;
+	font-size: 1.2rem;
   }
   
   .footer--list{
