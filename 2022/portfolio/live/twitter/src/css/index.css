@@ -15,19 +15,19 @@
   .main--titles{
 	margin: 20px 0;
 	font-weight: 700;
-	width: 40%;
+	width: 80%;
 	max-width: 300px;
   }
     
   h1.titles--title{
-	  font-size: 3.4rem;
-	  margin-bottom: 15px;
-	}
+	font-size: 3.4rem;
+	margin-bottom: 15px;
+}
 	
-	/* .main--hero{
-	  width: 90%;
-	  margin: 0 auto;
-	} */
+.main--hero{
+	width: 90%;
+	margin: 0 auto;
+}
 
 .main--buttons{
 	width: 80%;
@@ -42,15 +42,15 @@
 	margin: 10px 0;
 	width: 100%;
 	text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
+  	overflow: hidden;
+  	white-space: nowrap;
   }
   
   .main--button--icon {
 padding: 5px;
   }
   .main--button__white{
-	border: 1px solid gray;
+	border: 1px solid var(--gray-color);
 	background: white;
   }
   
@@ -65,13 +65,20 @@ padding: 5px;
   
   .main--division{
 	text-align: center;
-	width: 50%;
+	width: 90%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  }
+  .main--division div{
+	border-top: 1px solid var(--gray-color);
+	width: 45%;
   }
   
   .main--text{
 	font-size: 1rem;
-	width: 45%;
-	margin: 5px 20px 20px;
+	margin: 5px 0 20px;
 	color: var(--gray);
 }
   
@@ -89,7 +96,7 @@ padding: 5px;
     background-image: url('../img/mobile.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;  
+    background-size: cover;
 }
   
   .footer{
@@ -129,18 +136,47 @@ padding: 5px;
 
 /* RESPONSIVE */
 
-@media (min-width: 600px) {
+@media screen and (min-width: 1024px) {
+	.helper{
+		display: flex;
+		flex-direction: row-reverse;
+		width: 100vw;
+		height: 90vh;
+	}
+	.main {
+		display: flex;
+		align-items: center;
+	}
     .main--background{
-		width: 100%;
-		height: 60vh;
-		background-image: url('../img/tablet.png');
-		background-color: rgb(199, 106, 106);
+		width: 50%;
+		height: 100%;
+		background-image: url('../img/desktop.png');
+	}
+	.helper--content {
+		width: 50%;
+	}
+	.main--button{
+		display: block;
+		width: 300px;
+		margin: 10px 0;
+	}
+	h1.titles--title{
+		font-size: 4rem;
+	}
+	.footer{
+		display: flex;
+		height: 10vh;
+	}
+	.footer--list {
+		width: 100vw;
+		justify-content: center;
+
 	}
 } 
 
-@media (min-width: 800px) {
+/* @media (min-width: 800px) {
     .main--background{
-		background-image: url('../img/desktop.png');
-		background-color: black;
-}
-}
+		background-image: url('../img/tablet.png');
+		background-size: contain;  
+	}
+} */
