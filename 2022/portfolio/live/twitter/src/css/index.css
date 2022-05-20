@@ -91,6 +91,10 @@ h2.titles--title{
 .text--link{
 	color: var(--brand-color);
 }
+h3.titles--title{
+	font-size: 1.6rem;
+	margin-bottom: 5px;
+}
 
 .main--background{
 	width: 100%;
@@ -98,7 +102,7 @@ h2.titles--title{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-    background-image: url('../img/mobile.png');
+    background-image: url('../img/small.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -151,8 +155,10 @@ h2.titles--title{
     .main--background{
 		width: 50%;
 		height: 100%;
+		background: none;
 		background-image: url('../img/desktop.png');
 	}
+
 	.helper--content {
 		width: 50%;
 	}
