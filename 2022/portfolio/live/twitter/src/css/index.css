@@ -184,6 +184,9 @@ h3.titles--title{
 		max-width: 300px;
 		margin: 0;
 	}
+	.main--text{
+		width: 300px;
+	}
 	.footer--list a span, .footer--list__year {
 		color: var(--gray);
 	}
