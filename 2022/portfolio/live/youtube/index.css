@@ -241,6 +241,11 @@ aside{
   padding: 4px 9px;
 }
 
+.video--cover img:hover{
+  background-color: var(--dark-color);
+  width: 100%;
+}
+
 .video--details{
   display: flex;
   padding: 15px;
