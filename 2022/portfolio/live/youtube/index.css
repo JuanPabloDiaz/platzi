@@ -47,7 +47,7 @@ header{
   grid-area: header;
   display: grid;
   grid-template-columns: 20% 60% 20%;
-  padding: 0 20px;
+  padding: 0 30px;
   position: sticky;
 }
 
@@ -71,14 +71,17 @@ button{
   color: var(--brand-color);
 }
 
-.logo-icon{
+.logo--icon{
   display: flex;
+  font-weight: bold;
+  font-size: 1.8rem;
 }
 
-.logo-icon i{
+.logo--icon i{
   margin-right: 5px;
   font-weight: 900;
 }
+
 
 .fa-magnifying-glass {
   opacity: .8;
@@ -205,6 +208,7 @@ aside{
 .tags{
   grid-area: tags;
   display: flex;
+  border: 1px solid var(--solidGray--color);
 }
 
 .tags li{
@@ -223,6 +227,7 @@ aside{
 
 .videos{
   grid-area: content;
+  background-color: var(--gray-color);
 }
 
 .videos-row{
