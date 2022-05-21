@@ -35,7 +35,7 @@ ul, ol{
     "sidebar tags"
     "sidebar content"
   ;
-  grid-template-columns: 20% 80%;
+  grid-template-columns: 15% 85%;
   grid-template-rows: 10% 5% 85%;
   height: 100vh;
   width: 100%;
@@ -81,7 +81,7 @@ button{
 /* Logo colors */
 
 .header--logo{
-  width: 20%;
+  /* width: 20%; */
   display: flex;
   justify-content: space-between;
   justify-self: left;
@@ -90,7 +90,7 @@ button{
 
 .header--search{
   place-self: center;
-  width: 100%;
+  width: 60%;
 }
 
 .header--form{
@@ -116,20 +116,10 @@ button{
   margin: 0;
 }
 
-.header--button__blue{
-  color: var(--blue-color);
-  padding: 5px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid var(--blue-color);
-  border-radius: 3px;
+.micro {
+  border-radius: 25px;
+  padding: 10px;
 }
-
-.header--button__blue i{
-  margin-right: 10px;
-}
-
 
 .header--profile{
   justify-self: right;
@@ -181,7 +171,12 @@ aside{
 }
 
 .aside--list li:hover{
-  opacity: 0.5;
+  background-color: rgba(169, 169, 169, 0.473);
+}
+
+.icons-img {
+  width: 20px;
+  margin-right: 35px;
 }
 
 .tags{
@@ -235,18 +230,28 @@ aside{
   transition: .5s ease;
   backface-visibility: hidden;
 }
-
-.video--cover span{
+.video--cover span, .play-text{
   position: absolute;
-  bottom: 10px;
-  right: 10px;
   color: white;
   background: rgba(0, 0, 0, 0.8) ;
   padding: 4px 9px;
 }
+.video--cover span{
+  bottom: 10px;
+  right: 10px;
+}
+.play-text{
+  left: 50px;
+  top: 41px;
+  width: max-content;
+  height: 26px;
+  font-size: small;
+  background: rgba(0, 0, 0) ;
+}
 
 .video .video--cover img:hover{
   opacity: 0.5;
+  cursor: pointer;
 }
 
 .hidding-text-box {
@@ -268,13 +273,6 @@ aside{
   opacity: 1;
 }
 
-.test-text {
-  background-color: #6266658e;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
-
 .video--details{
   display: flex;
   padding: 15px;
@@ -287,9 +285,10 @@ aside{
   width: 40px;
   margin-right: 10px;
 }
-.small {
+.subscr-img {
   height: 30px;
   width: 30px;
+  margin-right: 25px;
 }
 
 .video--details h2, .video--details p{
