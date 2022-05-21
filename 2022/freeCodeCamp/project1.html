@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+	<link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">
+      Thank you for taking the time to help us improve the platform
+    </p>
+    <form id="survey-form" action="">
+      <label id="name-label" for="name">name</label>
+      <input id="name" type="text" placeholder="enter your name" required />
+      <label id="email-label" for="email">email</label>
+      <input id="email" type="email" placeholder="enter your email" required />
+      <label id="number-label" for="number">Age(optional)</label>
+      <input id="number" type="number" placeholder="Age" min="5" max="15" />
+      <select id="dropdown">
+        <input
+          type="radio"
+          id="Definitely"
+          name="Definitely"
+          value="Definitely"
+        />
+        <label for="Definitely">Definitely</label
+        ><br />
+        <input type="radio" id="Maybe" name="Maybe" value="Maybe"/>
+        <label for="Maybe">Maybe</label
+        ><br />
+        <input type="radio" id="Not sure" name="Not sure" value="Not sure" />
+        <label for="Not sure">Not sure</label
+        ><br />
+        <textarea
+          name=""
+          id=""
+          cols="30"
+          rows="10"
+          placeholder="Any comments or suggestions?"
+        ></textarea>
+        <button id="submit">submit</button>
+      </select>
+    </form>
+  </body>
+</html>
