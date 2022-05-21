@@ -3,6 +3,7 @@
   --brand-color: red;
   --blue-color: #065fd4;
   --dark-color: #181818;
+  --lightGray-color:#606060;
 }
 
 *{
@@ -166,7 +167,7 @@ aside{
   font-size: 1.3rem;
   padding: 10px;
   margin: 5px;
-  color: #606060;
+  color: var(--lightGray-color);
   cursor:text;
 }
 
@@ -237,6 +238,7 @@ aside{
   opacity: 1;
   transition: .5s ease;
   backface-visibility: hidden;
+  cursor: pointer;
 }
 .video--cover span, .play-text{
   position: absolute;
@@ -257,9 +259,8 @@ aside{
   background: rgba(0, 0, 0) ;
 }
 
-.video .video--cover img:hover{
+.video .video--cover img:hover, {
   opacity: 0.5;
-  cursor: pointer;
 }
 
 .hidding-text-box {
@@ -279,6 +280,11 @@ aside{
 
 .video--cover:hover .hidding-text-box {
   opacity: 1;
+}
+
+.floating--button {
+  float: right;
+  padding: 5px;
 }
 
 .video--details{
@@ -308,4 +314,7 @@ aside{
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
+}
+.video--details p i{
+color: var(--lightGray-color);
 }
