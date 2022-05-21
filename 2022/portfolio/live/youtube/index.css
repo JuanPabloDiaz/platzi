@@ -160,10 +160,18 @@ aside{
 
 .aside--list {
   border-bottom: 2px solid var(--gray-color);
+  cursor: pointer;
+}
+.aside--list h3 {
+  font-size: 1.3rem;
+  padding: 10px;
+  margin: 5px;
+  color: #606060;
+  cursor:text;
 }
 
 .aside--list li{
-  padding: 15px 10px;
+  padding: 7px;
 }
 
 .aside--list li a{
@@ -176,7 +184,7 @@ aside{
 
 .icons-img {
   width: 20px;
-  margin-right: 35px;
+  margin-right: 30px;
 }
 
 .tags{
@@ -245,7 +253,7 @@ aside{
   top: 41px;
   width: max-content;
   height: 26px;
-  font-size: small;
+  font-size: 1.2rem;
   background: rgba(0, 0, 0) ;
 }
 
@@ -288,7 +296,7 @@ aside{
 .subscr-img {
   height: 30px;
   width: 30px;
-  margin-right: 25px;
+  margin-right: 20px;
 }
 
 .video--details h2, .video--details p{
