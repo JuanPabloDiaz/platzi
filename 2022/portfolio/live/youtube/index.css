@@ -281,11 +281,15 @@ aside{
   font-size: 1.4rem;
 }
 
-.video--details img{
+.channel-img{
   border-radius: 50%;
   height: 40px;
   width: 40px;
   margin-right: 10px;
+}
+.small {
+  height: 30px;
+  width: 30px;
 }
 
 .video--details h2, .video--details p{
