@@ -95,7 +95,8 @@ height: 8px;
 margin-left: 10px;
 background-image: url('../assets/icons/down-arrow.svg');
 }
-/* end header */
+
+/* MAIN */
 
 main {
   width: 100%;
@@ -234,4 +235,148 @@ main {
   font-weight: 300;
   line-height: 1.5rem;
   color: var(--warm-black);
+}
+
+/* Cards: section */
+
+.main-product-detail {
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  height: auto;
+  padding: 20px 10px;
+  background-color: var(--warm-black);
+}
+.product-detail--batata-logo {
+  position: absolute;
+  width: 40px;
+  height: 25px;
+  background-image: url(../assets/icons/batata.svg);
+  top: -10px;
+  left: calc(50% - 20px);
+}
+.product-detail--title {
+width: 90%;
+min-width: 288px;
+height: auto;
+margin: 0 auto;
+margin-top: 50px;
+text-align: center;
+}
+.product-detail--title h2 {
+  color: var(--just-white);
+  margin-bottom: 20px;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.6rem;
+}
+.product-detail--title p{
+  color: #808080;
+  margin-bottom: 20px;
+  font-size:1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+}
+
+.product-detail--card {
+  width: 90%;
+  min-width: 288px;
+  max-width: 400px;
+  min-height: 150px;
+  margin: 15px auto;
+  padding: 15px;
+  background-color: var(--black);
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16) ;
+}
+
+/* icons (in card section) */
+
+.product-detail--card .icon-card {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 10px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.clock {
+  background-image: url('./../assets/icons/clock.svg');
+}
+
+.eye {
+  background-image: url('./../assets/icons/eye.svg');
+}
+
+.dollar {
+  background-image: url('./../assets/icons/dollar-sign.svg');
+}
+
+.check{
+  background-image: url('./../assets/icons/check-circle.svg');
+}
+/* END icons */
+
+.product--card_title {
+  margin-bottom: 15px;
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 1.8rem;
+  color: var(--just-white);
+}
+
+.product--card_body {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  color: #808080;
+}
+
+/* img Section: */
+
+.bitcoin-img-container {
+  width: 100%;
+  min-width: 320px;
+  height: 50vh;
+  background: url('../assets/img/bitcoinbaby2x.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.bitcoin-img-container h2 {
+  color: var(--just-white);
+  padding-top: 60px;
+  margin-bottom: 20px;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.6rem;  
+}
+
+/* Plans section: */
+
+.main-plans-container{
+  width: 100%;
+  min-height: 320px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+.main-plans-container h2 {
+  padding-top: 50px;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.6rem;
+  color: var(--black);
+}
+
+.main-plans-container p {
+  padding-top: 30px;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  color: #757575;
 }
