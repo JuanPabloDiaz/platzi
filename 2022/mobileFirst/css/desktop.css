@@ -1,8 +1,25 @@
-/* .main-tables-container {
-	display: flex;
-	width: 1000px;
-	margin: 0 auto;
-  } */
   .product-cards--container {
 	width: 1633px;
   }
+
+/* Footer: */
+
+footer section {
+	justify-content: space-evenly;
+	color: red;
+}
+
+/* .footer--left ul {
+	font-size: 1.4rem;
+	font-weight: 500;
+	line-height: 1.8rem;
+	list-style: none;
+}
+.footer--left li {
+	  background-color: black;
+	margin: 10px 0;
+  }
+  .footer--left a {
+	text-decoration: none;
+	color: var(--just-white);
+  } */

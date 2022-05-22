@@ -1,6 +1,6 @@
-.main-tables-container {
+.main-table-container {
   display: flex;
-  width: 1000px;
+  width: 900px;
   margin: 0 auto;
 }
 .product-cards--container {
