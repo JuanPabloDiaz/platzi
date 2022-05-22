@@ -2,24 +2,6 @@
 	width: 1633px;
   }
 
-/* Footer: */
-
-footer section {
-	justify-content: space-evenly;
-	color: red;
+  .plans-container--slider{
+    overflow-x: unset;
 }
-
-/* .footer--left ul {
-	font-size: 1.4rem;
-	font-weight: 500;
-	line-height: 1.8rem;
-	list-style: none;
-}
-.footer--left li {
-	  background-color: black;
-	margin: 10px 0;
-  }
-  .footer--left a {
-	text-decoration: none;
-	color: var(--just-white);
-  } */
