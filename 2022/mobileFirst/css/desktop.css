@@ -1,6 +1,14 @@
   .product-cards--container {
-	width: 1633px;
-  }
+	/* width: 1633px; */
+	width: 0;
+}
+.product-cards--container {
+  display: grid;
+  width: 1500;
+  gap: 5px;
+  grid-auto-flow: column;
+  margin: 0 auto;
+}
 
   .plans-container--slider{
     overflow-x: unset;

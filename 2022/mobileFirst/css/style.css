@@ -243,15 +243,17 @@ main {
 
 /* Cards: section */
 
-.main-product-detail {
+.main-product-container {
   position: relative;
   width: 100%;
   min-width: 320px;
   height: auto;
   padding: 20px 10px;
   background-color: var(--warm-black);
+  /* background-color: red; */
 }
-.product-detail--batata-logo {
+
+.product-product--logo {
   position: absolute;
   width: 40px;
   height: 25px;
