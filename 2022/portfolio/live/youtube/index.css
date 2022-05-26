@@ -310,7 +310,7 @@ aside{
 .video--details{
   display: flex;
   padding: 15px;
-  font-size: 1.4rem;
+  /* font-size: 1.2rem; */
 }
 
 .channel-img{
@@ -331,11 +331,20 @@ aside{
 }
 
 .video--details h2{
-  width: 200px;
+  width: 250px;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
 }
-.video--details p i{
-color: var(--lightGray-color);
+.video--description .video--title{
+  font-size: 1.7rem;
+}
+
+.video--details p{
+    color: var(--lightGray-color);
+    font-size: 1.3rem;
+}
+.video--details p span{
+  font-size: 3rem;
+  vertical-align: sub;
 }
