@@ -238,7 +238,7 @@ aside{
 
 .videos-row{
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(150px, 400px));
   grid-template-rows: 25px 310px;
   column-gap: 15px;
   row-gap: 10px;
