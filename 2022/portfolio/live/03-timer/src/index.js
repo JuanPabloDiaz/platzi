@@ -1,3 +1,34 @@
+// # PARA MANEJAR & TRABAJAR CON EL TIEMPO EN JS:
+
+//   INTERVALS & TIMEOUT    FUNCTIONS:
+
+// setInterval(() => {
+//   console.log("Tiempo transcurrido en segundos")
+// }, 1000)
+
+
+// setTimeout(() => {
+//   console.log("Han pasado 2 segundos (ejecuta y muere funcion)")
+// }, 2000)
+// ------------------------------*****--------------------------------
+
+// const contador = setInterval(() => {
+//   console.log("Tiempo transcurrido en segundos")
+// }, 1000)
+
+
+// setTimeout(() => {
+//   console.log("Se borro el interval")
+//   clearInterval(contador)
+// }, 5000)
+
+
+// END of live explination
+// ------------------------------*****--------------------------------
+// ------------------------------*****--------------------------------
+
+
+
 const secondsSpan = document.querySelector("#seconds");
 const minutesSpan = document.querySelector("#minutes");
 let secondsValue = 0;
@@ -17,7 +48,7 @@ function startChronometer() {
 }
 
 function formatValue(value) {
-  return ("0" + value).split(-2);
+  return ("0" + value).slice(-2);
 }
 
 function stopChronometer() {
@@ -30,3 +61,6 @@ function resetChronometer() {
   secondsSpan.textContent = "00";
   minutesSpan.textContent = "00";
 }
+
+
+
