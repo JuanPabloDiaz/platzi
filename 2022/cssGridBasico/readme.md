@@ -15,11 +15,11 @@ I had the oportunity to learn how to create dynamic layouts with CSS Grid! Apply
 
 This class is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets(CSS) but also has some Javascript (JS).
 
-<p align="center">
-    <a href="https://html.com/">HTML</a>
-    ·
-    <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    </p>
+<div align="center">
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+</div>
 
 <!-- CONTENT -->
 
