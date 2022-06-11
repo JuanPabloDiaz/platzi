@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>For Each Videos</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      const videos = [
+        {
+          title: "Qué necesitan saber los CEO de startups",
+          channel: "Platzi",
+          url_embed: "x0SiT9Eukrs",
+        },
+        {
+          title: "NO Pagues A Las Agencias Por Reparar Tu CRÉDITO",
+          channel: "Mai And Felix",
+          url_embed: "h8BviERjkeY",
+        },
+        {
+          title: "RECESSION ALERT: Why The Market Is Falling",
+          channel: "Andrei Jikh",
+          url_embed: "Z-atCKv9qrs",
+        },
+        {
+          title: "NO Pagues A Las Agencias Por Reparar Tu CRÉDITO",
+          channel: "Mai And Felix",
+          url_embed: "h_qhB7YC7rE",
+        },
+      ];
+      const app = document.getElementById("app");
+      videos.forEach((video) => {
+        app.innerHTML += `<h2>${video.title}</h2><p>${video.channel}</p><iframe width="500" height="300" src="https://www.youtube.com/embed/${video.url_embed}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+      });
+    </script>
+  </body>
+</html>

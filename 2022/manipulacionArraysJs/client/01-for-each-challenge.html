@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>For Each To Do List</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      const app = document.getElementById("app");
+
+      const tasks = [
+        { activitiy: "Make the bed", done: true },
+        { activitiy: "Workout", done: false },
+        { activitiy: "Rinse off", done: true },
+        { activitiy: "Have breakfast", done: false },
+        { activitiy: "Complete a course", done: true },
+        { activitiy: "Wash the dishes", done: true },
+        { activitiy: "Make lunch", done: false },
+        { activitiy: "Buy groceries", done: false },
+      ];
+
+      tasks.forEach(({ activitiy, done }) => {
+        const element = `
+         <li>
+          	 <input 
+                     type='checkbox' 
+                     id='${activitiy}' 
+                     name='${activitiy}' 
+                     ${done && "checked"} />
+                  <label for='${activitiy}' >${activitiy} </label>   
+         </li>`;
+        app.insertAdjacentHTML("beforeend", element);
+      });
+    </script>
+  </body>
+</html>
