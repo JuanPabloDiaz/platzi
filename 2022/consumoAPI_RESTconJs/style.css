@@ -61,7 +61,7 @@ html{
 	display: inline-block;
 	font-size: 1.8rem;
 	font-weight: 500;
-	background: var(--btn);;
+	background: var(--btn);
 	color: var(--text);
 	padding: 10px 30px;
 	border-radius: 30px;
