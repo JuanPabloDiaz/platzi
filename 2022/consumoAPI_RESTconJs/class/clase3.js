@@ -1,3 +1,5 @@
+// CLASE # 3
+
 console.log('Hello, world')
 
 const URL = 'https://api.thecatapi.com/v1/images/search';
