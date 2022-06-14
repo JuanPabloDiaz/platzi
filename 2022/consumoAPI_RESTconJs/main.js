@@ -18,3 +18,5 @@ async function reload_random_img() {
 
 const myButton = document.querySelector("button");
 myButton.onclick = reload_random_img;
+
+reload_random_img();
