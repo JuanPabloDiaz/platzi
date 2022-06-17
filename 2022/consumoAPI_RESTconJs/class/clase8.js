@@ -15,7 +15,7 @@ async function loadRandomMichis() {
   console.log(data)
 
   if (res.status !== 200) {
-    spanError.innerHTML = "Hubo un error: " + res.status;
+    spanError.innerHTML = "Error: " + res.status;
   } else {
     const img1 = document.getElementById('img1');
     const img2 = document.getElementById('img2');
@@ -37,7 +37,7 @@ async function loadFavouriteMichis() {
   console.log(data)
 
   if (res.status !== 200) {
-    spanError.innerHTML = "Hubo un error: " + res.status + data.message;
+    spanError.innerHTML = "Error: " + res.status + data.message;
   } else {
     const section = document.getElementById('favoriteMichis')
     section.innerHTML = "";
@@ -51,7 +51,7 @@ async function loadFavouriteMichis() {
       const article = document.createElement('article');
       const img = document.createElement('img');
       const btn = document.createElement('button');
-      const btnText = document.createTextNode('Sacar al michi de favoritos');
+      const btnText = document.createTextNode('Delete');
 
       img.src = michi.image.url;
       img.width = 150;
@@ -80,7 +80,7 @@ async function saveFavouriteMichi(id) {
   console.log(res)
 
   if (res.status !== 200) {
-    spanError.innerHTML = "Hubo un error: " + res.status + data.message;
+    spanError.innerHTML = "Error: " + res.status + data.message;
   } else {
     console.log('Michi guardado en favoritos')
     loadFavouriteMichis();
@@ -94,7 +94,7 @@ async function deleteFavouriteMichi(id) {
   const data = await res.json();
 
   if (res.status !== 200) {
-    spanError.innerHTML = "Hubo un error: " + res.status + data.message;
+    spanError.innerHTML = "Error: " + res.status + data.message;
   } else {
     console.log('Michi eliminado de favoritos')
     loadFavouriteMichis();
