@@ -4,14 +4,14 @@ Este proyecto en un sitio web SPA(Single Page Application) y mobile first que co
 
 ## **Estado actual**
 
-Proyecto completamenete terminado y en producción: [alexruiz.github.io/Timers](https://alexruix.github.io/Timers/)
+Proyecto completamenete terminado y en producción: [JuanPabloDiaz.github.io/timer](JuanPabloDiaz.github.io/timer)
 
 ## **Maquetación del proyecto**
 
 La maquetación del proyecto fue realizado en figma e inspirada en las aplicaciones móviles de relojes y alarmas.
 
 ## **Vista previa**
-<a href="https://alexruix.github.io/Timers/"><img src="https://github.com/alexruix/Timers/blob/main/src/img/screenshot.png" /></a>
+<a href="github.com"><img src="" /></a>
 
 ## **Tecnologías Utilizadas**
 
