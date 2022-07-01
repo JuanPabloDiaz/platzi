@@ -6,7 +6,6 @@
 //   console.log("Tiempo transcurrido en segundos")
 // }, 1000)
 
-
 // setTimeout(() => {
 //   console.log("Han pasado 2 segundos (ejecuta y muere funcion)")
 // }, 2000)
@@ -16,18 +15,14 @@
 //   console.log("Tiempo transcurrido en segundos")
 // }, 1000)
 
-
 // setTimeout(() => {
 //   console.log("Se borro el interval")
 //   clearInterval(contador)
 // }, 5000)
 
-
 // END of live explination
 // ------------------------------*****--------------------------------
 // ------------------------------*****--------------------------------
-
-
 
 const secondsSpan = document.querySelector("#seconds");
 const minutesSpan = document.querySelector("#minutes");
@@ -65,6 +60,3 @@ function resetChronometer() {
   secondsSpan.textContent = "00";
   minutesSpan.textContent = "00";
 }
-
-
-
