@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## How To Create a React App from Scratch 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) by using the command:
+
+**`npx create-react-app project-Name`**
+
+For this project I used: `npx create-react-app 07-react-weather-app`
 
 ## Available Scripts
 
