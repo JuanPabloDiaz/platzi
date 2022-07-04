@@ -157,3 +157,15 @@ footer{
   border: 5px solid #001845;
   background: #0353a4;
 }
+
+/* media */
+@media screen and (min-width: 1024px) {
+
+
+.pokemon-img img{
+  width: 60%;
+  height: auto;
+  max-height: 120px;
+}
+
+}
