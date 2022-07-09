@@ -8,7 +8,7 @@ I learned React.js, the most popular JavaScript library for building interactive
 
 ## Challenge 🎲
 
-I created my first web project with React.
+**To-Do List** is my first project using React.js. I created this APP from scratch following guidelines and best practices learned while taking the couse.
 
 <!-- BUILD WITH -->
 
