@@ -8,4 +8,4 @@ function TodoCounter({ total, completed }) {
   );
 }
 
-export { TodoCounter };
+export { TodoCounter }; 
