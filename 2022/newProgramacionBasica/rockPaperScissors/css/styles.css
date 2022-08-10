@@ -168,13 +168,22 @@ body.dark .playground__container--items figure {
         margin: 0;
         color: #e5e5e5;
         display: flex;
+        justify-content: center;
         align-items: center;
+        font-size: 1.5rem;
     }
 
 
     @media screen and (max-width: 1024px) {
         .playground__container p {
             text-align: center;
+        }
+        .dashboard {
+            /* top: 14%; */
+            /* left: 37%; */
+            right: 10%;
+            width: 25%;
+            font-size: 1.5rem;
         }
     }
 
@@ -187,7 +196,7 @@ body.dark .playground__container--items figure {
         }
         .playground__container {
             width: 50vw;
-            height: 62vh;
+            height: 35vh;
             position: absolute;
             top: 30%;
         }
@@ -216,7 +225,7 @@ body.dark .playground__container--items figure {
         text-align: center;
     }
     .dashboard .VS {
-
+        }
     .dashboard {
         top: 19%;
         left: 30%;
