@@ -79,14 +79,14 @@ class Game {
     empate (usuario, pc) {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
-        swal('TIE!', `You chose ${usuarioFinal} and the server chose ${pcFinal}`, 'error')
+        swal('TIE!', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'error')
     }
 
     ganaste (usuario, pc) {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
         userScore.innerHTML++
-        swal('YOU WIN!', `You chose ${usuarioFinal} and the server chose ${pcFinal}`, 'success')
+        swal('YOU WIN!', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'success')
             
     }
 
@@ -94,7 +94,7 @@ class Game {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
         pcScore.innerHTML++
-        swal('YOU LOSE :(', `You chose ${usuarioFinal} and the server chose ${pcFinal}`, 'error')
+        swal('YOU LOSE :(', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'error')
            
     }
 }
