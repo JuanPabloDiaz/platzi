@@ -62,15 +62,15 @@ content: "\eab0";
 
     }
     .dashboard {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: absolute;
-    top: 5%;
-    right: 10%;
-    border: 5px solid var(--color-D);
-    border-radius: 63px;
-    width: 15%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 5%;
+        right: 10%;
+        border: 5px solid var(--color-D);
+        border-radius: 63px;
+        width: 15%;
     }
     .dashboard__score {
         margin: 0;
@@ -78,9 +78,18 @@ content: "\eab0";
     .dashboard .VS {
         font-size: x-small;
         margin: 0;
-        border: 5px solid var(--color-D);
+        border: .5px solid var(--color-text);
         border-radius: 63px;
         padding: 3px;
+    }
+    .rock-paper-scissors img{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 5%;
+        left: 10%;
+        width: 200px;
     }
     .playground {
         height: 97vh;
@@ -97,6 +106,7 @@ content: "\eab0";
         font-size: 4rem;
         margin-bottom: 20px;
     }
+
     .playground__container {
         display: flex;
         flex-direction: column;
@@ -152,9 +162,7 @@ body.dark .playground__container--items figure {
 }
 
 /* end img */
-    .playground__container--items2 {
-        margin-bottom: 20px;
-    }
+
     .footer {
         padding-left: 1em;
         margin: 0;
@@ -162,19 +170,13 @@ body.dark .playground__container--items figure {
         display: flex;
         align-items: center;
     }
-    .social-icon {
-    font-size: 2em;
-    color: #e5e5e5;
-    text-decoration: none;
-    /* background-size: 50px 50px; */
-    margin: 0 10px;
-    }
 
-    /* @media screen and (max-width: 1024px) {
+
+    @media screen and (max-width: 1024px) {
         .playground__container p {
             text-align: center;
         }
-    } */
+    }
 
     @media screen and (max-width: 768px){
         .dashboard {
@@ -194,6 +196,9 @@ body.dark .playground__container--items figure {
             top: 0%;
             left: 23%;
         }
+        .rock-paper-scissors img{
+            display: none;
+        }
     }
 
     @media screen and (max-width: 480px){
@@ -210,6 +215,8 @@ body.dark .playground__container--items figure {
     .playground__container p {
         text-align: center;
     }
+    .dashboard .VS {
+
     .dashboard {
         top: 19%;
         left: 30%;
@@ -221,15 +228,16 @@ body.dark .playground__container--items figure {
 @media screen and (max-width: 360px){
     .playground__title {
         top: 8%;
-        font-size: 1em;
+        font-size: 2.8rem;
         left: 14%;
     }
     .dashboard {
-        font-size: .9em;
+        font-size: 1.5rem;
         left: 29%;
         width: 42%;
     }
     .playground__container {
         width: 35vh;
+        height: 30vh;
     }
 }
