@@ -41,6 +41,12 @@ Basic Rules...
 - Did you know that this game first appeared in China in the 17th century? Yes, it was not invented in Europe or America but in Asia. Europe started to play this game only in 19th century.
 - Statistics say that people usually choose Scissors in the first round and Rock in the second.
 
+## Desktop View
+<div align="center">
+
+![](./img/desktop.png)
+</div>
+
 <!-- LICENSE -->
 
 ## License 📜
