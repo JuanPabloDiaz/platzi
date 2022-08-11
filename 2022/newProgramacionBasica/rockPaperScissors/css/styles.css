@@ -49,7 +49,8 @@ content: "\eab0";
 	margin: 0;
 	box-sizing: border-box;
   }
-  
+  html, body {margin: 0; height: 100%; overflow: hidden}
+
   html{
     font-size: 62.5%;
   }
@@ -68,19 +69,22 @@ content: "\eab0";
         position: absolute;
         top: 5%;
         right: 10%;
-        border: 5px solid var(--color-D);
+        border: 3px solid var(--color-D);
         border-radius: 63px;
-        width: 15%;
+        width: 105px;
+        height: 105px;
+        font-size: 2.1rem;
+        padding-top: 2px;
     }
     .dashboard__score {
         margin: 0;
     }
     .dashboard .VS {
-        font-size: x-small;
+        font-size: 1rem;
         margin: 0;
         border: .5px solid var(--color-text);
         border-radius: 63px;
-        padding: 3px;
+        padding: 2px;
     }
     .rock-paper-scissors img{
         display: flex;
@@ -90,6 +94,16 @@ content: "\eab0";
         top: 5%;
         left: 10%;
         width: 200px;
+    }
+    .rules {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 30%;
+        right: 10%;
+        /* width: 300px; */
+        font-size: 2rem;
     }
     .playground {
         height: 97vh;
@@ -170,7 +184,7 @@ body.dark .playground__container--items figure {
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
 
@@ -203,18 +217,19 @@ body.dark .playground__container--items figure {
         .playground__title {
             position: absolute;
             top: 0%;
-            left: 23%;
+            left: 30%;
         }
-        .rock-paper-scissors img{
+        .rock-paper-scissors img, .rules{
             display: none;
         }
+        
     }
 
     @media screen and (max-width: 480px){
     .playground__title {
         position: absolute;
         top: 6%;
-        font-size: 1.3em;
+        font-size: 3.5rem;
         left: 18%;
     }
     .playground__container {
@@ -227,6 +242,7 @@ body.dark .playground__container--items figure {
     .dashboard .VS {
         }
     .dashboard {
+        font-size: 1.5rem;
         top: 19%;
         left: 30%;
         right: 10%;
@@ -241,12 +257,19 @@ body.dark .playground__container--items figure {
         left: 14%;
     }
     .dashboard {
-        font-size: 1.5rem;
         left: 29%;
         width: 42%;
     }
     .playground__container {
         width: 35vh;
         height: 30vh;
+    }
+    .playground__container--items {
+        height: 30vh;
+    }
+.playground__container--items figure {
+    margin: 10px;
+    width: 50px;
+    height: 50px;
     }
 }

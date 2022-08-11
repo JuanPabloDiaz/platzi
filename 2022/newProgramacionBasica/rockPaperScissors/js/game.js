@@ -1,4 +1,4 @@
-const rock = document.getElementById("rock") //Todas estas const toman la información de los botones del HTML
+const rock = document.getElementById("rock") //Todas estas const toman la información de los botones(img) del HTML
 const paper = document.getElementById("paper")
 const scissors = document.getElementById("scissors")
 const userScore = document.getElementById('user')
@@ -79,14 +79,14 @@ class Game {
     empate (usuario, pc) {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
-        swal('TIE!', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'error')
+        swal('TIE!', `You chose ${usuarioFinal} and the PC chose ${pcFinal}`, 'error')
     }
 
     ganaste (usuario, pc) {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
         userScore.innerHTML++
-        swal('YOU WIN!', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'success')
+        swal('YOU WIN!', `You chose ${usuarioFinal} and the PC chose ${pcFinal}`, 'success')
             
     }
 
@@ -94,7 +94,7 @@ class Game {
         let usuarioFinal = this.cambiarNumeroAOpcion(usuario)
         let pcFinal = this.cambiarPcAOpcion(pc)
         pcScore.innerHTML++
-        swal('YOU LOSE :(', `You chose ${usuarioFinal} and the other player chose ${pcFinal}`, 'error')
+        swal('YOU LOSE :(', `You chose ${usuarioFinal} and the PC chose ${pcFinal}`, 'error')
            
     }
 }
