@@ -4,7 +4,6 @@
 
 A variety of courses, assigments and many more activities developed using [Platzi](https://platzi.com) as my main source of information.
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
@@ -15,10 +14,9 @@ I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary
 
 [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
-Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network. 
+Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network.
 
 I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
-
 
 ### Built With 🔑
 
@@ -38,7 +36,6 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
 [![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
 
-
 ---
 
 [![]()]()
@@ -47,8 +44,8 @@ This project is based on Hyper Text Markup Language (HTML) and Cascading Style S
 [![]()]()
 
 <!-- How to edit the links:
-https://www.youtube.com/watch?v=Dl-ekLb4quE 
-https://simpleicons.org/ 
+https://www.youtube.com/watch?v=Dl-ekLb4quE
+https://simpleicons.org/
 https://www.w3schools.com/whatis/whatis_fullstack.asp -->
 
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://www.docker.com/)
@@ -57,7 +54,6 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp -->
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ]()
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-
 
 ## Courses 💻
 
@@ -80,14 +76,11 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 - []()
 - []() -->
 
-
 <!-- LICENSE -->
 
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- OTHER PROJECTS -->
 
@@ -96,6 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+
 <!-- CONTACT -->
 
 ## Contact 📞
@@ -104,13 +98,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
 [![](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:juan.diaz93@hotmail.com)
 
-<!-- 
+<!--
 [![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
 [![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
 [![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu) -->
-<!-- 
+<!--
   ![Twitter Follow](https://img.shields.io/twitter/follow/1diazdev?label=@1diazdev)
-  ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)  
+  ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)
    -->
 
 <!-- ACKNOWLEDGMENTS -->

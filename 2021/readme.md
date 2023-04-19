@@ -4,7 +4,6 @@
 
 A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
@@ -12,7 +11,6 @@ A variety of courses, assigments and many more activities developed using Platzi
 There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on. To find more about the courses I took and the certificates I have please click on:
 
 [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
-
 
 ### Built With 🔑
 
@@ -33,14 +31,11 @@ I enjoy taking courses on Platzi on my spare time. I have learn a lot and develo
 - [Curso de frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper)
 - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog)
 
-
 <!-- LICENSE -->
 
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -52,15 +47,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
 [![](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
-
-[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
-[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
-[![](https://img.shields.io/badge/-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdiaz028@email.cpcc.edu)
-
-
-  ![Twitter Follow](https://img.shields.io/twitter/follow/1diazdev?label=@1diazdev)
-  ![GitHub](https://img.shields.io/github/followers/JuanPabloDiaz?style=social)
-    
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -76,7 +62,7 @@ Resources list that I find helpful and would like to give credit to.
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 - [Git doc](https://git-scm.com/doc)
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
