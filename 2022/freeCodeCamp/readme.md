@@ -2,7 +2,7 @@
 
 # Free Code Camp
 
-This repo is testing environment for Free Code Camp.
+This folder contain files created during the Free Code Camp courses.
 
 <!-- OTHER PROJECTS -->
 
