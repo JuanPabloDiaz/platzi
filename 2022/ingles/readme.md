@@ -2,7 +2,7 @@
 
 # Ingles
 
-Disregard this repo
+Disregard this folder
 
 <!-- OTHER PROJECTS -->
 
