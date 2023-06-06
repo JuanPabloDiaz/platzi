@@ -1,21 +1,19 @@
-# #PlatziChallenge: Crea tu portafolio como React developer.
+# Curso de Creación de Páginas Web con ChatGPT
 
-¡Hola Platzinauta! Te doy la bienvenida a este repositorio en el cual vivirán todos los proyectos del reto.
+This folder contain all the info from the course I took in Platzi regarding how to create a Website using ChatGPT.
 
-> Si te perdiste la edición anterior del reto, aquí te dejo el [repositorio](https://github.com/LeoCode0/PlatziChallenge--js-dev) donde están todos los proyectos. Recuerda mandar tu solución a la branch solutions.
-
-## TikTik reproductor
+## We asked chatGPT to create a website and this is the code it came up with.
 
 🚧WIP🚧
 
-## Twitter timeline
+##
 
 🚧WIP🚧
 
-## Project secret 🔐
+## 🔐
 
 🚧WIP🚧
 
-## Plantilla para tu portafolio
+##
 
 🚧WIP🚧
