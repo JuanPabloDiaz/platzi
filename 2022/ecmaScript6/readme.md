@@ -2,7 +2,7 @@
 
 # ECMAScript 6+ Course
 
-This repo is part of a Platzi course called: "[Curso de ECMAScript 6+](https://platzi.com/cursos/ecmascript-6/)".
+This folder is part of a Platzi course called: "[Curso de ECMAScript 6+](https://platzi.com/cursos/ecmascript-6/)".
 
 JavaScript is the most used language for web application development, mainly in the frontend. Each year, ECMA International publishes a new edition of ECMAScript, the specification to which JavaScript conforms. I had the oportunity to learn about the new features that ECMAScript implements from version 6 to version 10.
 

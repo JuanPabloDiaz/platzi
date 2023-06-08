@@ -2,11 +2,9 @@
 
 # Flujo de Desarrollo Moderno CodeStream Course
 
-This repo is part of a Platzi course called: "[Curso de Flujo de Desarrollo Moderno CodeStream](https://platzi.com/cursos/desarrollo-moderno-codestream/)".
+This folder is part of a Platzi course called: "[Curso de Flujo de Desarrollo Moderno CodeStream](https://platzi.com/cursos/desarrollo-moderno-codestream/)".
 
 Create Software in the most efficient way possible, individually or as a team. Learn how to maintain effective communication and improve team coordination with CodeStream: the collaboration tool for developer teams that allows the entire Software development workflow to exist within your editor, facilitating your work and that of your team.
-
-## Challenge 🎲
 
 <!-- BUILD WITH -->
 
@@ -16,9 +14,7 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
 
 <div align="center">
 
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![CodeStream](https://img.shields.io/badge/CodeStream-323330?style=for-the-badge&logo=hashnode&logoColor=3F5767)](https://www.w3schools.com/whatis/whatis_js.asp)
 
 </div>
 
