@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# <img src="./assets/platziLogo.png" alt="Logo"> Platzi courses
+# <img src="./assets/platziLogo.png" alt="Logo"> Platzi Courses
 
 <!-- ABOUT THE PROJECT -->
 
