@@ -2,27 +2,30 @@
 
 # <img src="./assets/platziLogo.png" alt="Logo"> Platzi courses
 
-## I NEED TO FIX IT, THIS IS MY README FILE FOR ALL PLATZI COURSES!
-
-# I need to Learn CSS >> **[Flex Game](https://flexboxfroggy.com/#es)**
-
-This repo is a consolidation of all my education progress using [Platzi](https://platzi.com) as my main source of information. It has a variety of courses, assigments, challenges and many more activities developed over the years.
-
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
 
-XXXX
+This repository serves as a comprehensive representation of my academic achievements, leveraging [Platzi](https://platzi.com) as my primary knowledge hub. It encompasses an extensive array of courses, assignments, challenges, and other activities that have been developed over the years.
 
-### Courses & Certifications
+## Courses & Certifications
 
-To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
+For more information regarding my completed courses and certificates, please refer to my [Platzi profile](https://platzi.com/p/DiazJuan/).
 
-### Platzi Challenges
+<!-- OTHER PROJECTS -->
 
-Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network.
+## Projects 🚀
 
-I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+[![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
+
+## Platzi Challenges
+
+Platzi Challenges are an excellent initiative by Platzi to foster student motivation and cultivate an unwavering thirst for knowledge. Engaging in live classes and interactive chat discussions not only enhances the overall learning experience, but also facilitates community involvement and but also facilitates community involvement and creates a network.
+
+I had the oportunity to take a few challenges and learn new skills along the way. Some were tougher than others, yet all proved invaluable. These are my preferred ones: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
@@ -36,15 +39,6 @@ I had the oportunity to take a few challenges and learn new skills along the way
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<!-- OTHER PROJECTS -->
-
-## Projects 🚀
-
-![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
-[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
-[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
-[![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
-
 <!-- CONTACT -->
 
 ## Contact 📞
@@ -57,7 +51,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments 📚
 
-Resources list that I find helpful and would like to give credit to.
+Curated list of valuable resources deserving recognition.
 
 - [w3schools](https://www.w3schools.com/)
 - [Tiny png](https://tinypng.com/)
