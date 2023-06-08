@@ -14,7 +14,7 @@ This folder was created at the end of 2021 when I took the "Frontend Developer" 
 
 I completed the courses back on October 2021 and here is my [certificate](https://platzi.com/p/DiazJuan/curso/2467-course/diploma/detalle/) | [Practice](https://platzi.com/p/DiazJuan/curso/2477-course/diploma/detalle/)
 
-## Other projects 🚀
+## Other Projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)

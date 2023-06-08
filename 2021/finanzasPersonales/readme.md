@@ -8,7 +8,7 @@
 
 This folder was created at the end of 2021 when I took the "Ruta de Finanzas Profesional" on Platzi. Check out related courses: [here](https://platzi.com/ruta/finanzas-personales/)
 
-## Other projects 🚀
+## Other Projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
