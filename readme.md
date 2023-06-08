@@ -14,13 +14,13 @@ This repo is a consolidation of all my education progress using [Platzi](https:/
 
 XXXX
 
- ### Courses & Certifications
+### Courses & Certifications
 
- To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
+To find more about the courses I took and the certificates I have please click on my [profile](https://platzi.com/p/DiazJuan/).
 
 ### Platzi Challenges
 
-Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network. 
+Platzi Challenges are another great idea that Platzi has to keep student motivated and always with hanger for learning. Live classes and chat discussions are part of the experience which get you involve with the community and help you create a network.
 
 I had the oportunity to take a few challenges and learn new skills along the way. Some of them harder than others but all a great experience. Here are the once I enjoy the most: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
@@ -28,7 +28,7 @@ I had the oportunity to take a few challenges and learn new skills along the way
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
 
-  <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Buscar donde meter este link o como usar los links de esta pagina, me parecen claves</a>
+<a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Buscar donde meter este link o como usar los links de esta pagina, me parecen claves</a>
 
 <!-- LICENSE -->
 
@@ -43,6 +43,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+[![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
+
 <!-- CONTACT -->
 
 ## Contact 📞
