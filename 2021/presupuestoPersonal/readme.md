@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Habilidades Blandas
+# Presupuesto Personal
 
 <!-- ABOUT THE PROJECT -->
 

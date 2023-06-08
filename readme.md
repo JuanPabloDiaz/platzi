@@ -18,7 +18,7 @@ For more information regarding my completed courses and certificates, please cli
 
 ## Projects 🚀
 
-![#](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
 [![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
@@ -27,13 +27,11 @@ For more information regarding my completed courses and certificates, please cli
 
 Platzi Challenges are an excellent initiative by Platzi to foster student motivation and cultivate an unwavering thirst for knowledge. Engaging in live classes and interactive chat discussions not only enhances the overall learning experience, but also facilitates community involvement and but also facilitates community involvement and creates a network.
 
-I had the oportunity to take a few challenges and learn new skills along the way. Some were tougher than others, yet all proved invaluable. These are my preferred ones: [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/), [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/), [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
+I had the oportunity to take a few challenges and learn new skills along the way. Some were tougher than others, yet all proved invaluable. These are my preferred ones:
 
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
-
-<a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Buscar donde meter este link o como usar los links de esta pagina, me parecen claves</a>
+- [Datacademy](https://platzi.com/blog/escuela-data-ia-datacademy/)
+- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/)
+- [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
 <!-- LICENSE -->
 
@@ -55,6 +53,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Curated list of valuable resources deserving recognition.
 
+- [Full Stack Web Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp)
 - [w3schools](https://www.w3schools.com/)
 - [Tiny png](https://tinypng.com/)
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
@@ -63,7 +62,7 @@ Curated list of valuable resources deserving recognition.
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 - [Git doc](https://git-scm.com/doc)
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

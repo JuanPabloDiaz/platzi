@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Habilidades Blandas
+# Kotlin Desde Cero
 
 <!-- ABOUT THE PROJECT -->
 

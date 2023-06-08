@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Habilidades Blandas
+# Salud & Bienestar
 
 <!-- ABOUT THE PROJECT -->
 

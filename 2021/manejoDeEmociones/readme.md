@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Habilidades Blandas
+# Manejo de Emociones
 
 <!-- ABOUT THE PROJECT -->
 

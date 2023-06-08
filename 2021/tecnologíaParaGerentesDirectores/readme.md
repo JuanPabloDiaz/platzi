@@ -14,7 +14,7 @@ This folder was created at the end of 2021 when I took the "Technology for Manag
 
 I completed the courses back on September 2021 and here is my [certificate](https://platzi.com/p/DiazJuan/curso/1882-course/diploma/detalle/)
 
-## Other projects 🚀
+## Other Projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
@@ -29,7 +29,7 @@ I completed the courses back on September 2021 and here is my [certificate](http
 
 ## Acknowledgments 📚
 
-Resources list that I find helpful and would like to give credit to.
+Curated list of valuable resources deserving recognition.
 
 - [Platzi](https://www.platzi.com/)
 
