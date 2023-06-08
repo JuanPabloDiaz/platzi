@@ -49,13 +49,6 @@ This folder was created at the end of 2021 when I took the "Basic Programming" c
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/31bb15ba938382149ac4d2ecda7479effc6ae4d6)
 
-## Acknowledgments
-
-Resources list that I find helpful and would like to give credit to.
-
-- [Platzi](https://www.platzi.com/)
-- [Escuela de Javascript](https://platzi.com/escuela-javascript/)
-
 ## Other projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
