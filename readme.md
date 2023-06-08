@@ -10,7 +10,9 @@ This repository serves as a comprehensive representation of my academic achievem
 
 ## Courses & Certifications
 
-For more information regarding my completed courses and certificates, please refer to my [Platzi profile](https://platzi.com/p/DiazJuan/).
+For more information regarding my completed courses and certificates, please click on:
+
+[![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
 <!-- OTHER PROJECTS -->
 

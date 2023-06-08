@@ -1,16 +1,25 @@
 <div id="top"></div>
 
-# <img src="../assets/platziLogo.png" alt="Logo"> Platzi courses | 2021
+# <img src="../assets/platziLogo.png" alt="Logo"> Platzi Courses | 2021
 
-A variety of courses, assigments and many more activities developed using Platzi.com as my main source of information.
+I utilized Platzi as my primary knowledge hub.
 
 <!-- ABOUT THE PROJECT -->
 
 ## Description 💡
 
-There are many great concepts I learned with Platzi, many new skills I developed and many others that I still need to work on. To find more about the courses I took and the certificates I have please click on:
+Platzi has expanded my knowledge, enhanced my skill set, and identified areas for further development.
+
+For more information regarding my completed courses and certificates, please click on:
 
 [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
+
+<!-- OTHER PROJECTS -->
+
+## Projects 🚀
+
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 
 ### Built With 🔑
 
@@ -40,9 +49,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 
 ## Contact 📞
-
-![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
-[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
