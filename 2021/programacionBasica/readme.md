@@ -4,7 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Repo
+## About
 
 This folder was created at the end of 2021 when I took the "Basic Programming" course on Platzi. Check out the course description: [Curso Gratis de Programación Básica](https://platzi.com/cursos/programacion-basica/).
 

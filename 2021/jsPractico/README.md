@@ -2,7 +2,7 @@
 
 # Curso Practico de Javascript
 
-## About The Repo
+## About
 
 This folder was created at the end of 2021 when I took the "Basic Programming" course on Platzi. Check out the course description: [Curso Practico de JavaScript
 ](https://platzi.com/cursos/javascript-practico/).

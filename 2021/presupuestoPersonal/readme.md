@@ -4,7 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Repo
+## About
 
 This folder does not have any code. disregard.
 

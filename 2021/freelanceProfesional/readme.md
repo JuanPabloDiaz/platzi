@@ -4,7 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Repo
+## About
 
 This folder was created at the end of 2021 when I took the "Freelance Profesional" course on Platzi. Check out the course description: [Curso para ser Freelance Profesional](https://platzi.com/cursos/ser-freelance-profesional/)
 

@@ -4,7 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Repo
+## About
 
 This folder was created at the end of 2021 when I took the "Ruta de Finanzas Profesional" on Platzi. Check out related courses: [here](https://platzi.com/ruta/finanzas-personales/)
 

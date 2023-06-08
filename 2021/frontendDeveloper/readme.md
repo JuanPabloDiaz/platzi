@@ -4,7 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Repo
+## About
 
 This folder was created at the end of 2021 when I took the "Frontend Developer" course on Platzi. Check out the course description: [Curso de Frontend Developer](https://platzi.com/cursos/frontend-developer/) as well as the [Curso Práctico de Frontend Developer](https://platzi.com/cursos/frontend-developer-practico/).
 
