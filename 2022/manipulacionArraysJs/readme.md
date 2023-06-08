@@ -2,26 +2,25 @@
 
 # Manipulate Arrays in JavaScript Course
 
-This repo is part of a Platzi course called: "[Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)".
+This section is part of a Platzi course called: "[Curso de Manipulación de Arrays en JavaScript](https://platzi.com/cursos/arrays/)".
 
 I learned how to solve quickly and efficiently the algorithms by using and understanding arrays in JavaScript, from how to create them to the different methods they have.
 
 ## Challenge 🎲
+
 text
 
 <!-- BUILD WITH -->
 
 ### Built With 🔑
 
-This class is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets(CSS) but also has some Javascript (JS).
+This class is based on Javascript (JS)
 
-<p align="center">
-    <a href="https://html.com/">HTML</a>
-    ·
-    <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
-    ·
-    <a href="https://www.javascript.com/">JS</a>
-    </p>
+<div align="center">
+
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
+
+</div>
 
 <!-- CONTENT -->
 
@@ -43,6 +42,7 @@ This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-w
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+
 <!-- CONTACT -->
 
 ## Contact 📞
@@ -61,7 +61,7 @@ Resources list that I find helpful and would like to give credit to.
 - [Escuela de Javascript](https://platzi.com/escuela-javascript/)
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [#PlatziChallenge](https://platzi.com/blog/portafolio-web-2022/) 🎯
-Crea tu Portafolio como Web Developer 2022
+  Crea tu Portafolio como Web Developer 2022
 
 <p align="right">(<a href="#top">👆top👆</a>)</p>
 

@@ -2,7 +2,7 @@
 
 # Introduction to React.js Course
 
-This repo is part of a Platzi course called: "[Curso de Introducción a React.js](https://platzi.com/cursos/react/)".
+This section is part of a Platzi course called: "[Curso de Introducción a React.js](https://platzi.com/cursos/react/)".
 
 I learned React.js, the most popular JavaScript library for building interactive web applications! Worked with components, properties, state and effects. Store my data in Local Storage, implement React Context to communicate components, and teleport components with React Portals.
 
