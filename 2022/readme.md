@@ -96,6 +96,19 @@ Here are some of the projects that have been developed in 2022.
 
 <div align="center">
 
+Consumo De API_REST: [Project 1](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase1.html)
+| [Project 2](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase2.html)
+| [Project 3](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase3.html)
+| [Project 4](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase4.html)
+| [Project 5](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase5.html)
+| [Project 6](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase6.html)
+| [Project 7](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase7.html)
+| [Project 8](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase8.html)
+
+</div>
+
+<div align="center">
+
 [Project 1](#)
 | [Project 2](#)
 | [Project 3](#)
