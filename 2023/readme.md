@@ -23,6 +23,20 @@ I enjoy taking classes online at Platzi. I became a Platzi Pro member on Febrary
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
 [![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
 
+Here are some of the projects that have been developed in 2023.
+
+<div align="center">
+
+[Project 1](#)
+| [Project 2](#)
+| [Project 3](#)
+| [Project 4](#)
+| [Project 5](#)
+| [Project 6](#)
+| [Project 7](#)
+
+</div>
+
 ### Built With 🔑
 
 This project is based on Hyper Text Markup Language (HTML) and Cascading Style Sheets
