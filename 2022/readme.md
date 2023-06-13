@@ -100,7 +100,7 @@ Here are some of the projects that have been developed in 2022.
 | [Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
 | [Layout Template](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/courseChallenges/layoutProject.html)
 | [Mobile First Project](https://jpdiaz.dev/platzi/2022/mobileFirst/)
-| [rockPaperScissors](https://jpdiaz.dev/rock-paper-scissors/)
+| [Rock Paper Scissors](https://jpdiaz.dev/rock-paper-scissors/)
 | [Project 5](#)
 | [Project 6](#)
 | [Project 7](#)
@@ -133,6 +133,19 @@ CSS Grid: [Final Project](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
 | [propiedadesUbicacion](https://jpdiaz.dev/platzi/2022/cssGridBasico/propiedadesUbicacion/)
 | [keywordsEspeciales](https://jpdiaz.dev/platzi/2022/cssGridBasico/keywordsEspeciales/)
 | [funcionesEspeciales](https://jpdiaz.dev/platzi/2022/cssGridBasico/funcionesEspeciales/)
+
+</div>
+<div align="center">
+
+[Portfolio](https://jpdiaz.dev/platzi/2022/portfolio/)
+| [Twitter Clone](https://jpdiaz.dev/platzi/2022/portfolio/live/01-twitter)
+| [Youtube Clone](https://jpdiaz.dev/platzi/2022/portfolio/live/02-youtube)
+| [Timer App](https://jpdiaz.dev/platzi/2022/portfolio/live/03-timer)
+| [4pics1word Game](https://jpdiaz.dev/platzi/2022/portfolio/live/04-game_4pics1word)
+| [Wordle Game](https://jpdiaz.dev/platzi/2022/portfolio/live/05-wordle)
+| [Pokedex Clone](https://jpdiaz.dev/platzi/2022/portfolio/live/06-pokedex)
+
+<!-- | [react weather app](https://jpdiaz.dev/platzi/2022/portfolio/live/07-react-weather-app) it wont open since its in react.-->
 
 </div>
 
