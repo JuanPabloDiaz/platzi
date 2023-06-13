@@ -109,7 +109,7 @@ Consumo De API_REST: [Project 1](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTc
 
 <div align="center">
 
-[Project 1](#)
+[CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
 | [Project 2](#)
 | [Project 3](#)
 | [Project 4](#)
