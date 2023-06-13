@@ -6,6 +6,8 @@ This folder is part of a Platzi challenge to create a portfolio.
 
 ## Challenge 🎲
 
+Here are some of the projects that have been developed in 2022.
+
 <div align="center">
 
 [Portfolio](https://jpdiaz.dev/platzi/2022/portfolio/)
@@ -39,8 +41,6 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
 ## Content 🚦
 
 This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-web-2022/) I participated on. In which for two months, I got the oportunity to join 24 live meeting and multiple classes with the only purpose of creating a Web Portaflio.
-
-Here are some of the projects that have been developed in 2022.
 
 <!-- PROJECTS -->
 
