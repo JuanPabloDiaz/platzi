@@ -18,11 +18,11 @@ I completed the courses back on September 2021 and here is my [certificate](http
 
 Here are some of the projects developed with this course
 
-✔️ [pesoEnOtroPlaneta](https://jpdiaz.dev/platzi/2021/programacionBasica/pesoEnOtroPlaneta/marte_jupiter.html)
+✔️ [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
+
+✔️ [Peso En Otro Planeta](https://jpdiaz.dev/platzi/2021/programacionBasica/pesoEnOtroPlaneta/marte_jupiter.html)
 
 ✔️ [Random Number](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/random.html)
-
-✔️ [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
 
 ✔️ [Move Around](https://jpdiaz.dev/platzi/2021/programacionBasica/teclas/flechas.html)
 
