@@ -24,12 +24,19 @@ This course is centered around Hyper Text Markup Language (HTML) and Cascading S
 
 This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-web-2022/) I participated on. In which for two months, I got the oportunity to join 24 live meeting and multiple classes with the only purpose of creating a Web Portaflio.
 
-<p align="center">
-    <a href="https://www.figma.com/file/BIvMK5z4qpusGfr5l3Of6s/Platzi-Live-Landing?node-id=0%3A1">Prototype</a>
-	⭐
-    <a href="#">Challenge</a>
+Here are some of the projects that have been developed through this course.
 
-  </p>
+<div align="center">
+
+[Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
+| [Layout Project](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/courseChallenges/layoutProject.html)
+| [Project 3](#)
+| [Project 4](#)
+| [Project 5](#)
+| [Project 6](#)
+| [Project 7](#)
+
+</div>
 
 <!-- PROJECTS -->
 
