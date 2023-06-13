@@ -100,7 +100,7 @@ Here are some of the projects that have been developed in 2022.
 | [Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
 | [Layout Template](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/courseChallenges/layoutProject.html)
 | [Mobile First Project](https://jpdiaz.dev/platzi/2022/mobileFirst/)
-| [Project 4](#)
+| [rockPaperScissors](https://jpdiaz.dev/rock-paper-scissors/)
 | [Project 5](#)
 | [Project 6](#)
 | [Project 7](#)
