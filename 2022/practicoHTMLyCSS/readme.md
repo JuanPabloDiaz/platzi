@@ -9,6 +9,12 @@ I also reinforce concepts such as positioning, box model, Display types, selecto
 
 I developed some projects but the most challenging was to **clone the Google page**.
 
+<div align="center">
+
+[Google Clone](<https://jpdiaz.dev/platzi/2022/practicoHTMLyCSS/googleCloneOfficial/Clase%2015%20(%20css%20footer)>)
+
+</div>
+
 <!-- BUILD WITH -->
 
 ### Built With 🔑
