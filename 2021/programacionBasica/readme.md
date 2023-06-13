@@ -14,6 +14,18 @@ This folder was created at the end of 2021 when I took the "Basic Programming" c
 
 I completed the courses back on September 2021 and here is my [certificate](https://platzi.com/p/DiazJuan/curso/1050-course/diploma/detalle/)
 
+## Projects
+
+Here are some of the projects developed with this course
+
+✔️ [pesoEnOtroPlaneta](https://jpdiaz.dev/platzi/2021/programacionBasica/pesoEnOtroPlaneta/marte_jupiter.html)
+
+✔️ [Random Number](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/random.html)
+
+✔️ [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
+
+✔️ [Move Around](https://jpdiaz.dev/platzi/2021/programacionBasica/teclas/flechas.html)
+
 ## Other Projects 🚀
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
