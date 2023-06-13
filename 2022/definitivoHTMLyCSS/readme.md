@@ -30,11 +30,10 @@ Here are some of the projects that have been developed through this course.
 
 [Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
 | [Layout Project](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/courseChallenges/layoutProject.html)
-| [Project 3](#)
-| [Project 4](#)
-| [Project 5](#)
-| [Project 6](#)
-| [Project 7](#)
+| [ResponsiveDesign - ResponsiveImgs](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/ResponsiveDesign/ResponsiveImgs/)
+| [ResponsiveDesign - columnDrop](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/ResponsiveDesign/columnDrop/)
+| [ResponsiveDesign - layoutShifter](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/ResponsiveDesign/layoutShifter/)
+| [ResponsiveDesign - mostlyFluid](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/ResponsiveDesign/mostlyFluid/)
 
 </div>
 
