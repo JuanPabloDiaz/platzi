@@ -7,25 +7,25 @@
 This folder was created at the end of 2021 when I took the "Basic Programming" course on Platzi. Check out the course description: [Curso Practico de JavaScript
 ](https://platzi.com/cursos/javascript-practico/).
 
-## Taller #1: figuras geométricas
+## Taller #1: Figuras Geométricas
 
 - Primer paso: definir las fórmulas
 - Segundo paso: implementar la fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
 
-### [Project 1](./projectOne/calculoCoolFiguras.html)
+### [Project 1](./projectOne/calculoCoolFiguras.html) | [Demo Area Calculator](https://jpdiaz.dev/platzi/2021/jsPractico/projectOne/calculoCoolFiguras.html)
 
-## Taller #2: porcentajes y descuentos
+## Taller #2: Porcentajes y Descuentos
 
 - Primer paso: definir las fórmulas
 - Segundo paso: implementar la fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
 
-### [Project 2](./projectTwo/discountCupons.html)
+### [Project 2](./projectTwo/discountCupons.html) | [Demo Calculate Discount](https://jpdiaz.dev/platzi/2021/jsPractico/projectTwo/discountCupons.html)
 
-## Taller #3: promedio, mediana y moda
+## Taller #3: Promedio, mediana y moda
 
 - Primer paso: definir las fórmulas
 - Segundo paso: implementar la fórmulas en JavaScript
