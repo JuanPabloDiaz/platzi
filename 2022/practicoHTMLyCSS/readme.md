@@ -9,12 +9,6 @@ I also reinforce concepts such as positioning, box model, Display types, selecto
 
 I developed some projects but the most challenging was to **clone the Google page**.
 
-<div align="center">
-
-[Google Clone](<https://jpdiaz.dev/platzi/2022/practicoHTMLyCSS/googleCloneOfficial/Clase%2015%20(%20css%20footer)>)
-
-</div>
-
 <!-- BUILD WITH -->
 
 ### Built With 🔑
@@ -33,12 +27,11 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
 
 This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-web-2022/) I participated on. In which for two months, I got the oportunity to join 24 live meeting and multiple classes with the only purpose of creating a Web Portaflio.
 
-<p align="center">
-    <a href="#">link</a>
-	⭐
-    <a href="#">Challenge</a>
+<div align="center">
 
-  </p>
+⭐[Google Clone](<https://jpdiaz.dev/platzi/2022/practicoHTMLyCSS/googleCloneOfficial/Clase%2015%20(%20css%20footer)>)⭐
+
+</div>
 
 <!-- PROJECTS -->
 
