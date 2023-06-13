@@ -26,12 +26,20 @@ This course focuses on JavaScript (JS).
 
 This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-web-2022/) I participated on. In which for two months, I got the oportunity to join 24 live meeting and multiple classes with the only purpose of creating a Web Portaflio.
 
-<p align="center">
-    <a href="#">link</a>
-	⭐
-    <a href="#">Challenge</a>
+Here are some of the projects that have been developed through this course.
 
-  </p>
+<div align="center">
+
+[Project 1](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase1.html)
+| [Project 2](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase2.html)
+| [Project 3](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase3.html)
+| [Project 4](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase4.html)
+| [Project 5](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase5.html)
+| [Project 6](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase6.html)
+| [Project 7](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase7.html)
+| [Project 8](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase8.html)
+
+</div>
 
 <!-- PROJECTS -->
 
