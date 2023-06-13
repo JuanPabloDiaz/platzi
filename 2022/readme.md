@@ -92,6 +92,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
 
+Here are some of the projects that have been developed in 2022.
+
+<div align="center">
+
+[Mr Robot Cool](https://jpdiaz.dev/platzi/2021/frontendDeveloper/curso-1/mr-robot.html)
+| [Area Calculator ](https://jpdiaz.dev/platzi/2021/jsPractico/projectOne/calculoCoolFiguras.html)
+| [Calculate Discount](https://jpdiaz.dev/platzi/2021/jsPractico/projectTwo/discountCupons.html)
+| [Weight On Another Planet](https://jpdiaz.dev/platzi/2021/programacionBasica/pesoEnOtroPlaneta/marte_jupiter.html)
+| [Random Number](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/random.html)
+| [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
+| [Move Around](https://jpdiaz.dev/platzi/2021/programacionBasica/teclas/flechas.html)
+
+</div>
+
 <!-- CONTACT -->
 
 ## Contact 📞
