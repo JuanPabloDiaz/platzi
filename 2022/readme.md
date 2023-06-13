@@ -96,13 +96,13 @@ Here are some of the projects that have been developed in 2022.
 
 <div align="center">
 
-[Mr Robot Cool](https://jpdiaz.dev/platzi/2021/frontendDeveloper/curso-1/mr-robot.html)
-| [Area Calculator ](https://jpdiaz.dev/platzi/2021/jsPractico/projectOne/calculoCoolFiguras.html)
-| [Calculate Discount](https://jpdiaz.dev/platzi/2021/jsPractico/projectTwo/discountCupons.html)
-| [Weight On Another Planet](https://jpdiaz.dev/platzi/2021/programacionBasica/pesoEnOtroPlaneta/marte_jupiter.html)
-| [Random Number](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/random.html)
-| [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
-| [Move Around](https://jpdiaz.dev/platzi/2021/programacionBasica/teclas/flechas.html)
+[Project 1](#)
+| [Project 2](#)
+| [Project 3](#)
+| [Project 4](#)
+| [Project 5](#)
+| [Project 6](#)
+| [Project 7](#)
 
 </div>
 
