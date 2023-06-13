@@ -96,6 +96,20 @@ Here are some of the projects that have been developed in 2022.
 
 <div align="center">
 
+[CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
+| [Project 2](#)
+| [Project 3](#)
+| [Project 4](#)
+| [Project 5](#)
+| [Project 6](#)
+| [Project 7](#)
+
+</div>
+
+---
+
+<div align="center">
+
 Consumo De API_REST: [Project 1](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase1.html)
 | [Project 2](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase2.html)
 | [Project 3](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTconJs/class/clase3.html)
@@ -109,13 +123,15 @@ Consumo De API_REST: [Project 1](https://jpdiaz.dev/platzi/2022/consumoAPI_RESTc
 
 <div align="center">
 
-[CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
-| [Project 2](#)
-| [Project 3](#)
-| [Project 4](#)
-| [Project 5](#)
-| [Project 6](#)
-| [Project 7](#)
+CSS Grid: [Final Project](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
+| [Challenge 1](https://jpdiaz.dev/platzi/2022/cssGridBasico/challenge/reto.html)
+| [Challenge 2](https://jpdiaz.dev/platzi/2022/cssGridBasico/challenge/reto1.html)
+| [Challenge 3](https://jpdiaz.dev/platzi/2022/cssGridBasico/challenge/reto2.html)
+| [propiedadesAlineacion](https://jpdiaz.dev/platzi/2022/cssGridBasico/propiedadesAlineacion/)
+| [propiedadesContenedor](https://jpdiaz.dev/platzi/2022/cssGridBasico/propiedadesContenedor/)
+| [propiedadesUbicacion](https://jpdiaz.dev/platzi/2022/cssGridBasico/propiedadesUbicacion/)
+| [keywordsEspeciales](https://jpdiaz.dev/platzi/2022/cssGridBasico/keywordsEspeciales/)
+| [funcionesEspeciales](https://jpdiaz.dev/platzi/2022/cssGridBasico/funcionesEspeciales/)
 
 </div>
 
