@@ -96,14 +96,13 @@ Here are some of the projects that have been developed in 2022.
 
 <div align="center">
 
-⭐[CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
+⭐[CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)| [Vid-Box](https://jpdiaz.dev/youtube/)
 | [Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
 | [Layout Template](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/courseChallenges/layoutProject.html)
 | [Mobile First Project](https://jpdiaz.dev/platzi/2022/mobileFirst/)
 | [Rock Paper Scissors](https://jpdiaz.dev/rock-paper-scissors/)
 | [Platzi Movies](https://jpdiaz.dev/platzi/2022/practicoConsumoAPI_RESTconJs/clase3-_-curso-api-rest-javascript-practico)
 [Google Clone](<https://jpdiaz.dev/platzi/2022/practicoHTMLyCSS/googleCloneOfficial/Clase%2015%20(%20css%20footer)>)
-| [Project 5](#)
 | [Project 6](#)
 | [Project 7](#)
 ⭐
