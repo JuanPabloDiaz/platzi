@@ -97,7 +97,7 @@ Here are some of the projects that have been developed in 2022.
 <div align="center">
 
 [CSS Grid](https://jpdiaz.dev/platzi/2022/cssGridBasico/project/)
-| [Project 2](#)
+| [Platzi Day](https://jpdiaz.dev/platzi/2022/definitivoHTMLyCSS/web2022Challenges/platziDay.html)
 | [Project 3](#)
 | [Project 4](#)
 | [Project 5](#)
