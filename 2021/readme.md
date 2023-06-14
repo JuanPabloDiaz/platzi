@@ -25,6 +25,7 @@ Here are some of the projects that have been developed in 2021.
 
 <div align="center">
 
+⭐
 [Mr Robot Cool](https://jpdiaz.dev/platzi/2021/frontendDeveloper/curso-1/mr-robot.html)
 | [Area Calculator ](https://jpdiaz.dev/platzi/2021/jsPractico/projectOne/calculoCoolFiguras.html)
 | [Calculate Discount](https://jpdiaz.dev/platzi/2021/jsPractico/projectTwo/discountCupons.html)
@@ -32,6 +33,7 @@ Here are some of the projects that have been developed in 2021.
 | [Random Number](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/random.html)
 | [My First Video Game](https://jpdiaz.dev/platzi/2021/programacionBasica/primerVideoJuego/villa.html)
 | [Move Around](https://jpdiaz.dev/platzi/2021/programacionBasica/teclas/flechas.html)
+⭐
 
 </div>
 

@@ -27,6 +27,7 @@ Here are some of the projects that have been developed in 2023.
 
 <div align="center">
 
+⭐
 [Project 1](#)
 | [Project 2](#)
 | [Project 3](#)
@@ -34,6 +35,7 @@ Here are some of the projects that have been developed in 2023.
 | [Project 5](#)
 | [Project 6](#)
 | [Project 7](#)
+⭐
 
 </div>
 
