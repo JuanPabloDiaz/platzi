@@ -1,8 +1,21 @@
 /* styles.css */
+
+/* Estilos generales para el cuerpo de la página */
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Mínimo 100% del alto de la ventana visible */
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  /* Oculta la barra de desplazamiento vertical */
+  /* overflow-y: hidden; */
+}
+
+/* Estilos para el contenido principal (main) */
+main {
+  flex-grow: 1; /* Hace que el contenido principal crezca y ocupe el espacio restante */
+  padding: 20px;
 }
 
 header {
@@ -11,32 +24,59 @@ header {
   padding: 20px;
   text-align: center;
 }
-
-nav {
+/* nav */
+.menu {
   background-color: #f5f5f5;
   padding: 10px;
 }
 
-nav ul {
+.menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-nav ul li {
+.menu ul li {
   display: inline;
   margin-right: 10px;
 }
 
-nav ul li a {
+.menu ul li a {
   color: #333;
   text-decoration: none;
+}
+/* Efecto hover */
+.nav-item a:hover {
+  color: #3661be; /* Cambia el color del texto al pasar el cursor */
 }
 
 section {
   padding: 20px;
 }
 
+.contact {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+#btnSuscribirse {
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  font-size: 16px; /* Tamaño del texto */
+  font-weight: bold; /* Texto en negrita */
+  transition: background-color 0.3s ease; /* Transición suave del color de fondo */
+}
+
+#btnSuscribirse:hover {
+  background-color: #0056b3; /* Cambia el color de fondo al pasar el cursor sobre el botón */
+}
+
+/* Estilos para el pie de página (footer) */
 footer {
   background-color: #333;
   color: #fff;
