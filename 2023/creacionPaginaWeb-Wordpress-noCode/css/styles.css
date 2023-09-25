@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Acá tengo estilos generales */
+
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    width: 100%;
+}
+
+/* Acá tengo los estilos del header */
+
+header {
+    background: #1f1f1f;
+    padding: 10px 50px;
+}
+
+#logo {
+    width: 50px;
+}
+
+#logo img {
+    border-radius: 100%;
+    border: 2px solid #fff; 
+}
+
+/* Acá están los estilos del hero */
+
+#hero {
+    position: relative;
+}
+
+#hero #computadora {
+    display: inline-block;
+    width: 100%;
+}
+
+#hero .informacion-contenedor {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    display: flex;
+    width: 100%;
+    color: #fff;
+    padding: 0 50px;
+}
+
+#hero .informacion-contenedor #foto {
+    width: 200px;;
+}
+
+#hero .informacion-contenedor #foto img {
+    border-radius: 100%;
+}
+
+#hero .informacion-contenedor .informacion {
+    margin-left: 20px;
+    font-weight: bold;
+    width: calc(100% - 200px);
+}
+
+#hero .informacion-contenedor .informacion span {
+    display: inline-block;
+    color: #b5b5b5;
+    margin-bottom: 70px;
+}
+
+/* Estilos del main */
+
+main {
+    padding: 100px;
+}
+
+main .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    list-style: none;
+}
+
+main .social-icons li {
+    margin-left: 8px;
+}
+
+main .social-icons .social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+
+main .social-icons #LinkedIn {
+    background: #0077b0;
+}
+
+main .social-icons #GitHub {
+    background: #23272d;
+}
+
+main .social-icons #Twitter {
+    background: #1da1f2;
+}
+
+main .social-icons #YouTube {
+    background: #f70000;
+}
+
+main .social-icons #Platzi {
+    background: #121f3d;
+}
