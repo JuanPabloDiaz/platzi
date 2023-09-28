@@ -1,6 +1,10 @@
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
@@ -14,6 +18,18 @@ nav {
 
 main {
   background-color: #babd8d;
+}
+
+article {
+  background-color: #ffdac6;
+  width: 100%;
+  height: 500px;
+  padding: 20px 20px;
+}
+article .impact-section {
+  width: 50%;
+  height: 250px;
+  background-color: white;
 }
 
 footer {

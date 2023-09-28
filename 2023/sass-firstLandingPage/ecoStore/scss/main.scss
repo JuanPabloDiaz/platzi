@@ -6,9 +6,13 @@ $tertiary-color: #babd8d;
 $primary-text-color: #7c6a0a;
 $font-stack: "IBM Plex Sans", sans-serif;
 
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: $font-stack;
 }
 nav {
@@ -20,6 +24,18 @@ nav {
 }
 main {
   background-color: $tertiary-color;
+}
+article {
+  background-color: $secondary-color;
+  width: 100%;
+  height: 500px;
+  padding: 20px 20px;
+
+  .impact-section {
+    width: 50%;
+    height: 250px;
+    background-color: white;
+  }
 }
 footer {
   $background: #fa9500;
