@@ -1,0 +1,431 @@
+$primary-color: #e9d83e;
+$secondary-color: #ffefe7;
+$tertiary-color: #babd8d;
+$primary-text-color: #85847f;
+$quaternary-color: #000000;
+$font-stack: "IBM Plex Sans", sans-serif;
+$paragraph-size: 1em;
+
+@mixin flexCenter($direction, $content, $align) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $content;
+  align-items: $align;
+}
+@mixin buttonStyle {
+  button {
+    background: none;
+    border-style: none;
+    width: 15vw;
+    padding: 20px;
+    background-color: $quaternary-color;
+    border-radius: 35px;
+    color: $secondary-color;
+    font-size: 1em;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+@mixin sectionStyles {
+  .flex-section {
+    width: auto;
+    height: auto;
+  }
+
+  .flex-container {
+    display: flex;
+    height: 100%;
+  }
+
+  .flex-box {
+    flex: 1;
+  }
+}
+// Llamando al mixin para estilos de sección flex
+.flex-section {
+  @include sectionStyles;
+}
+
+// Llamando al mixin para estilos de botón
+.button-container {
+  @include buttonStyle;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: $primary-color;
+  font-family: $font-stack;
+}
+// NAVEGATION
+nav {
+  width: auto;
+  @include flexCenter(row, space-between, center);
+  color: $primary-text-color;
+  padding: 15px;
+  background-color: #e86424;
+}
+nav .logo-container {
+  // background-color: #2b17e0;
+  display: flex; /* Activa el modelo de caja flexible */
+  // align-items: center; /* Centra verticalmente los elementos */
+}
+nav .logo-container .logo {
+  flex: 0 0 auto; /* Evita que el logo crezca */
+  margin-right: 10px; /* Espacio entre el logo y el texto */
+}
+nav .logo-container .logo img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+nav .logo-container .brand-name {
+  flex: 1; /* El texto ocupará el espacio restante */
+  font-size: $paragraph-size;
+}
+nav .logo-container .brand-name span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: 12px;
+  font-size: 0.75em;
+  padding-right: 30px;
+  color: $quaternary-color;
+}
+.nav-login {
+  display: flex;
+  gap: 15px;
+  @include buttonStyle;
+  .button-white {
+    background-color: $secondary-color;
+    color: $quaternary-color;
+  }
+}
+.login img {
+  width: 25px;
+  height: 25px;
+  // background-color: red;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+// MAIN SECTION
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  img {
+    width: auto;
+    height: 10%;
+    object-fit: cover;
+  }
+}
+// HERO
+// .hero {
+//   width: auto;
+//   color: $primary-text-color;
+//   @include flexCenter(row, space-between, center);
+//   padding-left: 45px;
+//   padding-right: 45px;
+//   padding-top: 70px;
+//   padding-bottom: 20px;
+//   // background-color: #d1ebf0;
+// }
+// .hero-section {
+//   @include flexCenter(column, space-evenly, flex-start);
+//   padding-top: 50px;
+//   gap: 25px;
+// }
+// .hero .hero-section h1 {
+//   font-size: 3em;
+//   padding: 0px;
+//   margin: 0px;
+// }
+// .hero .hero-section h2 {
+//   font-size: 2.5em;
+// }
+.black {
+  color: $quaternary-color;
+}
+.white {
+  color: $secondary-color;
+}
+.hero .hero-section p {
+  font-size: $paragraph-size;
+  text-align: justify;
+  width: 60%;
+}
+// TEXT & IMAGE
+// .hero-text_img {
+//   @include sectionStyles;
+//   // display: flex;
+//   flex-direction: row; /* Establece la dirección del flexbox como horizontal (izquierda a derecha) */
+//   align-items: center; /* Alinea verticalmente los elementos al centro */
+// }
+// .hero-text {
+//   @include sectionStyles;
+//   flex: 1; /* Hace que el texto ocupe todo el espacio restante en el contenedor */
+//   padding: 0px; /* Espacio alrededor del texto para mejorar la legibilidad */
+// }
+// .img-pc {
+//   flex: 1; /* Hace que la imagen ocupe todo el espacio restante en el contenedor */
+//   text-align: center; /* Alinea la imagen a la derecha dentro de su div */
+// }
+// .img-pc img {
+//   max-width: 100%; /* Asegura que la imagen no se desborde del div */
+//   height: auto; /* Mantiene la proporción de aspecto de la imagen */
+//   text-align: center;
+// }
+// BUTTONS
+@include buttonStyle;
+.hero-buttons .button-black {
+  background-color: $quaternary-color;
+  color: $secondary-color;
+}
+.hero-buttons .button-transparent {
+  background-color: transparent;
+  color: $quaternary-color;
+  border: solid 1px gray;
+}
+
+// *************************MAP SECTION****************************
+.map-section {
+  width: auto;
+  height: auto;
+  padding: 60px;
+  background-color: $secondary-color;
+  h2 {
+    color: $primary-text-color;
+    font-size: 2em;
+    text-align: center;
+  }
+}
+.map-container {
+  display: flex;
+  @include sectionStyles;
+  flex-direction: row; /* Establece la dirección del flexbox como horizontal (izquierda a derecha) */
+  align-items: center; /* Alinea verticalmente los elementos al centro */
+}
+
+.texto {
+  flex: 1; /* Hace que el texto ocupe todo el espacio restante en el contenedor */
+  padding: 10px; /* Espacio alrededor del texto para mejorar la legibilidad */
+}
+
+.imagen {
+  flex: 1; /* Hace que la imagen ocupe todo el espacio restante en el contenedor */
+  // text-align: right; /* Alinea la imagen a la derecha dentro de su div */
+}
+
+.imagen img {
+  max-width: 100%; /* Asegura que la imagen no se desborde del div */
+  height: auto; /* Mantiene la proporción de aspecto de la imagen */
+}
+// yellow box test
+.yellow-box {
+  display: flex;
+  background-color: $primary-color;
+  border-radius: 25px;
+  padding: 20px;
+  // width: 90%;
+}
+.yellow-tb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  text-align: center;
+}
+.yellow-box .fila {
+  padding: 10px;
+  background-color: #ffefe7;
+  margin: 5px;
+  border-radius: 25px;
+  width: 95%;
+}
+
+// SERVICES
+.services {
+  width: auto;
+  height: auto;
+  padding: 60px;
+  background-color: $tertiary-color;
+  h2 {
+    color: $primary-text-color;
+    font-size: 2em;
+  }
+}
+.products {
+  padding-bottom: 60px;
+  h2 {
+    font-weight: 500;
+    padding-bottom: 60px;
+    text-align: center;
+  }
+  .card-section {
+    width: auto;
+    height: auto;
+    @include flexCenter(row, space-evenly, center);
+    flex-wrap: wrap;
+    column-gap: 200px;
+    row-gap: 80px;
+  }
+  .product-card {
+    width: 14vw;
+    height: 45vh;
+    background-color: $secondary-color;
+    color: $primary-text-color;
+    padding: 20px;
+    border-radius: 8px;
+    .icon {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 12px;
+      img {
+        width: 28px;
+        height: 28px;
+      }
+    }
+    .product-image {
+      width: 100%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        width: 12vw;
+        height: 30vh;
+        object-fit: cover;
+        border-radius: 6px;
+      }
+    }
+    h3 {
+      font-weight: 500;
+      font-size: 1.2em;
+    }
+    .product-info {
+      width: 100%;
+      height: auto;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding-top: 2px;
+      p {
+        font-size: 0.8em;
+        text-align: justify;
+        display: block;
+        justify-content: space-between;
+      }
+    }
+  }
+}
+// EVENTOS
+.events {
+  background-color: #e47b46;
+}
+.events h2 {
+  font-weight: bold;
+  padding-bottom: 60px;
+}
+.events-images {
+  @include flexCenter(row, space-between, center);
+}
+.events-images img {
+  width: 28vw;
+  height: 45vh;
+  object-fit: cover;
+  object-position: 5px 35%;
+  border-radius: 100px;
+  margin: 50px;
+}
+.events-images img:hover {
+  transform: scale(1.1);
+}
+// *****************************************************
+// FOOTER
+footer {
+  background-color: $quaternary-color;
+  width: 100%;
+  height: auto;
+  padding: 40px;
+  color: white;
+  // ******* Using the function: @mixin sectionStyles {
+  //   .flex-section {...}
+}
+
+.end {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 20px;
+}
+footer a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+// *****************************************************
+// MEDIA QUERIES
+
+//BODY
+// Media query para pantallas medianas
+@media (min-width: 768px) {
+  $paragraph-size: 0.7em;
+  body {
+    font-size: $paragraph-size;
+  }
+  // NAVEGATION
+  // Ejemplo de media query para ajustar el diseño del encabezado en pantallas pequeñas
+  nav {
+    padding: 10px; // Reducir el espacio en el encabezado
+  }
+  nav .logo-container {
+    flex-direction: calc(row); // Cambiar la dirección del logo y el texto
+    align-items: center; // Centrar verticalmente
+    // background-color: #2b17e0;
+  }
+  nav .logo-container .logo {
+    margin-right: 5px; // Eliminar el margen entre el logo y el texto
+  }
+  nav .logo-container .brand-name {
+    text-align: center; // Centrar el texto
+    padding-top: 10px; // Agregar espacio superior
+  }
+  nav .logo-container .brand-name span {
+    letter-spacing: 8px;
+    font-size: 0.75em;
+    padding-right: 20px;
+  }
+  // LOGIN
+  // Ejemplo de media query para ajustar el diseño de los botones en pantallas pequeñas
+  // .nav-login {
+  //   flex-direction: column; // Cambiar la dirección de los botones
+  //   align-items: center; // Centrar horizontalmente
+  //   button {
+  //     width: 80%; // Reducir el ancho de los botones
+  //   }
+  // }
+  // .login img {
+  //   width: 15px;
+  //   height: 15px;
+  //   margin-left: 0; // Eliminar el margen izquierdo en las imágenes de inicio de sesión
+  // }
+  // Otros ajustes específicos para pantallas pequeñas aquí
+}
+
+// Media query para pantallas grandes
+@media (min-width: 1024px) {
+  $paragraph-size: 1.2em;
+  body {
+    font-size: $paragraph-size;
+  }
+  // Otros estilos específicos para pantallas grandes aquí
+}

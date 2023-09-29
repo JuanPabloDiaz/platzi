@@ -1,0 +1,391 @@
+@charset "UTF-8";
+.flex-section .flex-section {
+  width: auto;
+  height: auto;
+}
+.flex-section .flex-container {
+  display: flex;
+  height: 100%;
+}
+.flex-section .flex-box {
+  flex: 1;
+}
+
+.button-container button {
+  background: none;
+  border-style: none;
+  width: 15vw;
+  padding: 20px;
+  background-color: #000000;
+  border-radius: 35px;
+  color: #ffefe7;
+  font-size: 1em;
+}
+.button-container button:hover {
+  transform: scale(1.1);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e9d83e;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+nav {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #85847f;
+  padding: 15px;
+  background-color: #e86424;
+}
+
+nav .logo-container {
+  display: flex; /* Activa el modelo de caja flexible */
+}
+
+nav .logo-container .logo {
+  flex: 0 0 auto; /* Evita que el logo crezca */
+  margin-right: 10px; /* Espacio entre el logo y el texto */
+}
+
+nav .logo-container .logo img {
+  width: 50px;
+  height: 50px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+
+nav .logo-container .brand-name {
+  flex: 1; /* El texto ocupará el espacio restante */
+  font-size: 1em;
+}
+
+nav .logo-container .brand-name span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: 12px;
+  font-size: 0.75em;
+  padding-right: 30px;
+  color: #000000;
+}
+
+.nav-login {
+  display: flex;
+  gap: 15px;
+}
+.nav-login button {
+  background: none;
+  border-style: none;
+  width: 15vw;
+  padding: 20px;
+  background-color: #000000;
+  border-radius: 35px;
+  color: #ffefe7;
+  font-size: 1em;
+}
+.nav-login button:hover {
+  transform: scale(1.1);
+}
+.nav-login .button-white {
+  background-color: #ffefe7;
+  color: #000000;
+}
+
+.login img {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.center-content img {
+  width: auto;
+  height: 10%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.black {
+  color: #000000;
+}
+
+.white {
+  color: #ffefe7;
+}
+
+.hero .hero-section p {
+  font-size: 1em;
+  text-align: justify;
+  width: 60%;
+}
+
+button {
+  background: none;
+  border-style: none;
+  width: 15vw;
+  padding: 20px;
+  background-color: #000000;
+  border-radius: 35px;
+  color: #ffefe7;
+  font-size: 1em;
+}
+button:hover {
+  transform: scale(1.1);
+}
+
+.hero-buttons .button-black {
+  background-color: #000000;
+  color: #ffefe7;
+}
+
+.hero-buttons .button-transparent {
+  background-color: transparent;
+  color: #000000;
+  border: solid 1px gray;
+}
+
+.map-section {
+  width: auto;
+  height: auto;
+  padding: 60px;
+  background-color: #ffefe7;
+}
+.map-section h2 {
+  color: #85847f;
+  font-size: 2em;
+  text-align: center;
+}
+
+.map-container {
+  display: flex;
+  flex-direction: row; /* Establece la dirección del flexbox como horizontal (izquierda a derecha) */
+  align-items: center; /* Alinea verticalmente los elementos al centro */
+}
+.map-container .flex-section {
+  width: auto;
+  height: auto;
+}
+.map-container .flex-container {
+  display: flex;
+  height: 100%;
+}
+.map-container .flex-box {
+  flex: 1;
+}
+
+.texto {
+  flex: 1; /* Hace que el texto ocupe todo el espacio restante en el contenedor */
+  padding: 10px; /* Espacio alrededor del texto para mejorar la legibilidad */
+}
+
+.imagen {
+  flex: 1; /* Hace que la imagen ocupe todo el espacio restante en el contenedor */
+}
+
+.imagen img {
+  max-width: 100%; /* Asegura que la imagen no se desborde del div */
+  height: auto; /* Mantiene la proporción de aspecto de la imagen */
+}
+
+.yellow-box {
+  display: flex;
+  background-color: #e9d83e;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.yellow-tb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  text-align: center;
+}
+
+.yellow-box .fila {
+  padding: 10px;
+  background-color: #ffefe7;
+  margin: 5px;
+  border-radius: 25px;
+  width: 95%;
+}
+
+.services {
+  width: auto;
+  height: auto;
+  padding: 60px;
+  background-color: #babd8d;
+}
+.services h2 {
+  color: #85847f;
+  font-size: 2em;
+}
+
+.products {
+  padding-bottom: 60px;
+}
+.products h2 {
+  font-weight: 500;
+  padding-bottom: 60px;
+  text-align: center;
+}
+.products .card-section {
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  -moz-column-gap: 200px;
+       column-gap: 200px;
+  row-gap: 80px;
+}
+.products .product-card {
+  width: 14vw;
+  height: 45vh;
+  background-color: #ffefe7;
+  color: #85847f;
+  padding: 20px;
+  border-radius: 8px;
+}
+.products .product-card .icon {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 12px;
+}
+.products .product-card .icon img {
+  width: 28px;
+  height: 28px;
+}
+.products .product-card .product-image {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.products .product-card .product-image img {
+  width: 12vw;
+  height: 30vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 6px;
+}
+.products .product-card h3 {
+  font-weight: 500;
+  font-size: 1.2em;
+}
+.products .product-card .product-info {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 2px;
+}
+.products .product-card .product-info p {
+  font-size: 0.8em;
+  text-align: justify;
+  display: block;
+  justify-content: space-between;
+}
+
+.events {
+  background-color: #e47b46;
+}
+
+.events h2 {
+  font-weight: bold;
+  padding-bottom: 60px;
+}
+
+.events-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.events-images img {
+  width: 28vw;
+  height: 45vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 5px 35%;
+     object-position: 5px 35%;
+  border-radius: 100px;
+  margin: 50px;
+}
+
+.events-images img:hover {
+  transform: scale(1.1);
+}
+
+footer {
+  background-color: #000000;
+  width: 100%;
+  height: auto;
+  padding: 40px;
+  color: white;
+}
+
+.end {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 0.7em;
+  }
+  nav {
+    padding: 10px;
+  }
+  nav .logo-container {
+    flex-direction: calc(row);
+    align-items: center;
+  }
+  nav .logo-container .logo {
+    margin-right: 5px;
+  }
+  nav .logo-container .brand-name {
+    text-align: center;
+    padding-top: 10px;
+  }
+  nav .logo-container .brand-name span {
+    letter-spacing: 8px;
+    font-size: 0.75em;
+    padding-right: 20px;
+  }
+}
+@media (min-width: 1024px) {
+  body {
+    font-size: 1.2em;
+  }
+}/*# sourceMappingURL=main.css.map */
