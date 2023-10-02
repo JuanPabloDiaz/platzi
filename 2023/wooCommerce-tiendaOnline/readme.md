@@ -33,16 +33,22 @@ Woo Commerce is a WordPress plugin, since we install this WordPress plugin it wi
 
 ## Projects 🚀
 
-The final project for this course is not online. I created a website with all my certificates from Platzi.
-I dont have a hosting so I cannot host the site jet.
+The final project for this course is not online yet.
+I created an e-commerce in my local machine.
 
-- I use [Local](https://localwp.com/) to create a wordpress server in my own computer.
-- The final project is on a .zip file on this folder (Cerficados.zip)
+- I use [LocalWP](https://localwp.com/) to create a WordPress server in my own computer.
+- I dont have a hosting so I cannot host the site jet.
+- The final project is on a .zip file on this folder (kenzoJeans.zip)
 
-  ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
-  [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
-  [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
-  [![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
+### [How to install WooCommerce](https://woocommerce.com/download/)
+
+1. I had to download the [WooCommerce plugin](https://woocommerce.com/download/)
+2. Add it to the site folder: `C:\Users\juanc\Local Sites\kenzojeans\app\public\wp-content\plugins`.
+
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+[![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
 
 <!-- CONTACT -->
 
@@ -62,6 +68,7 @@ Resources list that I find helpful and would like to give credit to.
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
 - [How to install Wordpress in LocalWp](https://platzi.com/clases/1981-woocommerce/31717-instalando-wordpress-de-forma-local/)
 - [Woo-Commerce](https://woocommerce.com/)
+- [How to install WooCommerce](https://woocommerce.com/download/)
 
 <p align="right">(<a href="#top">👆top👆</a>)</p>
 
