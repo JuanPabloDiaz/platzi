@@ -38,12 +38,15 @@ I created an e-commerce in my local machine.
 
 - I use [LocalWP](https://localwp.com/) to create a WordPress server in my own computer.
 - I dont have a hosting so I cannot host the site jet.
+- I had to install WooCommerce manually because the plug-in from the site was not letting me continue due to the site is on localWP offline.
 - The final project is on a .zip file on this folder (kenzoJeans.zip)
 
 ### [How to install WooCommerce](https://woocommerce.com/download/)
 
-1. I had to download the [WooCommerce plugin](https://woocommerce.com/download/)
-2. Add it to the site folder: `C:\Users\juanc\Local Sites\kenzojeans\app\public\wp-content\plugins`.
+1. Download the [WooCommerce plugin](https://woocommerce.com/download/) from the oficial site.
+2. Unzip the file locally so that you have the woocommerce/ folder on your hard drive.
+3. Transfer the extracted folder to: `C:\Users\juanc\Local Sites\kenzojeans\app\public\wp-content\plugins` (the directory of your WordPress site).
+4. From the Plugins menu in the Administration Screen, click Activate for the transferred plugin.
 
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
