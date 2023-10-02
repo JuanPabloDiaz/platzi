@@ -45,6 +45,7 @@ Resources list that I find helpful and would like to give credit to.
 
 - [Platzi](https://www.platzi.com/)
 - [Escuela de Desarrollo Web](https://platzi.com/web/)
+- [How to install Wordpress in LocalWp](https://platzi.com/clases/1981-woocommerce/31717-instalando-wordpress-de-forma-local/)
 
 <p align="right">(<a href="#top">👆top👆</a>)</p>
 
