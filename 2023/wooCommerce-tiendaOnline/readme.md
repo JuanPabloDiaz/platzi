@@ -2,7 +2,20 @@
 
 # Curso de Creación de Tiendas en Línea con WooCommerce
 
-"[Curso de Creación de Tiendas en Línea con WooCommerce](https://platzi.com/clases/1981-woocommerce/30936-conclusiones/)".
+"[Curso de WooCommerce en Platzi](https://platzi.com/clases/1981-woocommerce/30936-conclusiones/)".
+
+### What is it and why use Woo Commerce?
+
+Woo Commerce is a WordPress plugin, since we install this WordPress plugin it will acquire all the features and applications necessary for an e-commerce
+
+#### Advantages of Woo Commerce
+
+- Payment flow 💵
+- Easy to use ➡
+- It's free 🆓
+- Without using code 👩‍💻
+- Internet presence 🌐
+- Giant community
 
 <!-- BUILD WITH -->
 
@@ -14,20 +27,15 @@
 
 <!-- CONTENT -->
 
-## Content 🚦
+## Course Content 🚦
 
-### What is it and why use Woo Commerce?
+<!-- class 14 -->
 
-Woo Commerce is a WordPress plugin, since we install this WordPress plugin it will acquire all the features and applications necessary for an e-commerce
+### [Mass import of products:](https://platzi.com/clases/1981-woocommerce/30950-importacion-masiva-de-productos/)
 
-### Advantages of Woo Commerce
+Import, export, or update hundreds or thousands of products in your WooCommerce store with a single CSV. This tool supports most product types, including variations.
 
-- Payment flow 💵
-- Easy to use ➡
-- It's free 🆓
-- Without using code 👩‍💻
-- Internet presence 🌐
-- Giant community
+Follow the steps in the documentation: [Product CSV Importer and Exporter](https://woocommerce.com/document/product-csv-importer-exporter/)
 
 <!-- OTHER PROJECTS -->
 
@@ -42,6 +50,8 @@ I created an e-commerce in my local machine.
 - The final project is on a .zip file on this folder (kenzoJeans.zip)
 
 ### [How to install WooCommerce](https://woocommerce.com/download/)
+
+<!-- Yo instale Wordpress en local, asi que si les pide información de su FTP, solo vayan a la pagina del plugin y lo descargan, después lo extraen y pegan la carpeta woocommerce dentro de wp-content/plugins, luego buscan nuevamente el plugin y la opción de instalar ahora cambiara por Activar. -->
 
 1. Download the [WooCommerce plugin](https://woocommerce.com/download/) from the oficial site.
 2. Unzip the file locally so that you have the woocommerce/ folder on your hard drive.
