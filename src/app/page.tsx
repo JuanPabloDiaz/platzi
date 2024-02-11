@@ -15,24 +15,237 @@ export default function Home() {
           />
         </div>
       </div>
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="#"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
+      <nav className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
+        <ul
+        // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Projects 2024
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Projects created in 2024 for Platzi
-          </p>
-        </a>
-        <a
+          2024
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2024 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2024 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2024 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2024 for Platzi
+              </p>
+            </a>
+          </li>
+        </ul>
+        <ul
+        // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+        >
+          2023
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2023 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2023 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2023 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2023 for Platzi
+              </p>
+            </a>
+          </li>
+        </ul>
+        <ul
+        // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+        >
+          2022
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2022 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2022 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2022 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2022 for Platzi
+              </p>
+            </a>
+          </li>
+        </ul>
+        <ul
+        // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+        >
+          2021
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2021 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2021 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2021 for Platzi
+              </p>
+            </a>
+          </li>
+          <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <h2 className={`mb-3 text-2xl font-semibold`}>
+                Project 1
+                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                  -&gt;
+                </span>
+              </h2>
+              <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+                Projects created in 2021 for Platzi
+              </p>
+            </a>
+          </li>
+        </ul>
+
+        {/* <a
           href="#"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
@@ -79,8 +292,8 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Projects created in 2021 for Platzi
           </p>
-        </a>
-      </div>
+        </a> */}
+      </nav>
     </main>
   );
 }
