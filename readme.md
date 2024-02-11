@@ -22,6 +22,7 @@ For more information regarding my completed courses and certificates, please cli
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
 [![](https://img.shields.io/badge/2023-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2023)
+[![](https://img.shields.io/badge/2024-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2024)
 
 ## Platzi Challenges
 
