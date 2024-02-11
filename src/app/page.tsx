@@ -133,17 +133,21 @@ export default function Home() {
         <ul
         // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
-          <a href="/2022" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/JuanPabloDiaz/platzi/tree/main/2022"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             2022
           </a>
           <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
             <a
-              href="/2022/asincronismoJs"
+              href="https://github.com/JuanPabloDiaz/platzi/tree/main/2022/asincronismoJs"
               target="_blank"
               rel="noopener noreferrer"
             >
               <h2 className={`mb-3 text-2xl font-semibold`}>
-                asincronismoJs
+                Asincronismo Js
                 <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                   -&gt;
                 </span>
