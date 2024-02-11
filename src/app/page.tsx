@@ -7,7 +7,7 @@ export default function Home() {
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
-            src="/platzi.svg"
+            src="/platziHub.svg"
             alt="Logo"
             width={180}
             height={37}
