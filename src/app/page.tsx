@@ -19,7 +19,13 @@ export default function Home() {
         <ul
         // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
-          2024
+          <a
+            href="https://github.com/JuanPabloDiaz/platzi/blob/main/2024"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            2024
+          </a>
           <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
             <a href="#" target="_blank" rel="noopener noreferrer">
               <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -76,7 +82,13 @@ export default function Home() {
         <ul
         // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
-          2023
+          <a
+            href="https://github.com/JuanPabloDiaz/platzi/blob/main/2023"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            2023
+          </a>
           <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
             <a href="#" target="_blank" rel="noopener noreferrer">
               <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -200,7 +212,13 @@ export default function Home() {
         <ul
         // className="rounded-lg border-2 px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         >
-          2021
+          <a
+            href="https://github.com/JuanPabloDiaz/platzi/blob/main/2021"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            2021
+          </a>
           <li className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
             <a href="#" target="_blank" rel="noopener noreferrer">
               <h2 className={`mb-3 text-2xl font-semibold`}>
