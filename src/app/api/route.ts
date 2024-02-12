@@ -11,6 +11,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2024-01",
         },
       ],
     },
@@ -25,6 +26,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2023-01",
         },
       ],
     },
@@ -39,6 +41,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-01",
         },
         {
           name: "Twitter Clone",
@@ -48,6 +51,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-02",
         },
         {
           name: "Youtube Clone",
@@ -57,6 +61,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-03",
         },
         {
           name: "Timer App",
@@ -66,6 +71,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-04",
         },
         {
           name: "4pics1word Game",
@@ -75,6 +81,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-05",
         },
         {
           name: "Wordle Game",
@@ -84,6 +91,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-06",
         },
         {
           name: "Pokedex Clone",
@@ -93,6 +101,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-07",
         },
         {
           name: "CSS Grid",
@@ -102,6 +111,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-08",
         },
         {
           name: "Vid-Box",
@@ -111,6 +121,7 @@ export async function GET() {
           repo_url: "https://github.com/JuanPabloDiaz/youtube",
           demo_url: "https://youtube.jpdiaz.dev/",
           image_url: "",
+          id: "2022-09",
         },
         {
           name: "Platzi Day",
@@ -120,6 +131,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-10",
         },
         {
           name: "Layout Template",
@@ -129,6 +141,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-11",
         },
         {
           name: "Mobile First Project",
@@ -139,6 +152,7 @@ export async function GET() {
           repo_url: "https://github.com/JuanPabloDiaz/firstMobileProject",
           demo_url: "https://mobile-first.jpdiaz.dev",
           image_url: "",
+          id: "2022-12",
         },
         {
           name: "Rock Paper Scissors",
@@ -150,6 +164,7 @@ export async function GET() {
             "https://github.com/JuanPabloDiaz/rock-paper-scissors?tab=readme-ov-file",
           demo_url: "https://rps.jpdiaz.dev/",
           image_url: "",
+          id: "2022-13",
         },
         {
           name: "Platzi Movies",
@@ -159,6 +174,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2022-14",
         },
         {
           name: "Google Clone",
@@ -169,6 +185,7 @@ export async function GET() {
           repo_url: "https://github.com/JuanPabloDiaz/googleClone",
           demo_url: "https://googlehtml.jpdiaz.dev/",
           image_url: "",
+          id: "2022-15",
         },
         {
           name: "Pinteres Clone",
@@ -179,6 +196,7 @@ export async function GET() {
           repo_url: "https://github.com/JuanPabloDiaz/pinterest",
           demo_url: "https://pinterest.jpdiaz.dev/",
           image_url: "",
+          id: "2022-16",
         },
       ],
     },
@@ -193,6 +211,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2021-01",
         },
       ],
     },
@@ -207,6 +226,7 @@ export async function GET() {
           repo_url: "",
           demo_url: "",
           image_url: "",
+          id: "2020-01",
         },
       ],
     },
@@ -221,11 +241,12 @@ export async function GET() {
           repo_url: "https://github.com/JuanPabloDiaz/platzi-Git-Github",
           demo_url: "https://platzi-git-github.vercel.app/",
           image_url: "",
+          id: "2019-01",
         },
       ],
     },
 
     // Add more companies and products here
   ];
-  return Response.json({ platzi_api });
+  return Response.json({ platzi });
 }

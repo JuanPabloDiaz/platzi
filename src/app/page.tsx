@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { Card } from "../components/Card";
+import Link from "next/link";
 // import { CardMap } from "../components/CardMap";
 
 // export async function getServerSideProps() {
@@ -34,6 +35,8 @@ export default function Home() {
           />
         </div>
       </div>
+      <Link href="./api">Backend</Link>
+
       <Card />
       <>
         <section className="text-gray-600 body-font">
