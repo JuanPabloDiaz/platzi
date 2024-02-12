@@ -1,0 +1,231 @@
+export async function GET() {
+  const platzi_api = [
+    {
+      year: "2024",
+      project: [
+        {
+          name: "Project 1",
+          description: "Projects created in 2024 for Platzi",
+          build_with: ["react", "next.js", "tailwind css"],
+          created_on: "2024",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+      ],
+    },
+    {
+      year: "2023",
+      project: [
+        {
+          name: "Project 1",
+          description: "Projects created in 2024 for Platzi",
+          build_with: ["react", "next.js", "tailwind css"],
+          created_on: "2023",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+      ],
+    },
+    {
+      year: "2022",
+      project: [
+        {
+          name: "Portfolio",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Twitter Clone",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Youtube Clone",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Timer App",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "4pics1word Game",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Wordle Game",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Pokedex Clone",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "CSS Grid",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Vid-Box",
+          description: "Vid-Box is a Youtube Clone project",
+          build_with: ["html", "css", "javascript", "responsive design"],
+          created_on: "2022",
+          repo_url: "https://github.com/JuanPabloDiaz/youtube",
+          demo_url: "https://youtube.jpdiaz.dev/",
+          image_url: "",
+        },
+        {
+          name: "Platzi Day",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Layout Template",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Mobile First Project",
+          description:
+            "This is my first fully responsive project build from scratched",
+          build_with: ["html", "css", "javascript", "responsive design"],
+          created_on: "2022",
+          repo_url: "https://github.com/JuanPabloDiaz/firstMobileProject",
+          demo_url: "https://mobile-first.jpdiaz.dev",
+          image_url: "",
+        },
+        {
+          name: "Rock Paper Scissors",
+          description:
+            "Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand",
+          build_with: ["html", "css", "javascript"],
+          created_on: "2022",
+          repo_url:
+            "https://github.com/JuanPabloDiaz/rock-paper-scissors?tab=readme-ov-file",
+          demo_url: "https://rps.jpdiaz.dev/",
+          image_url: "",
+        },
+        {
+          name: "Platzi Movies",
+          description: "",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+        {
+          name: "Google Clone",
+          description:
+            "A simple clone of the Google homepage using HTML and CSS. No functionality, just the layout.",
+          build_with: ["html", "css"],
+          created_on: "2022",
+          repo_url: "https://github.com/JuanPabloDiaz/googleClone",
+          demo_url: "https://googlehtml.jpdiaz.dev/",
+          image_url: "",
+        },
+        {
+          name: "Pinteres Clone",
+          description:
+            "A simple clone of the Pinterest homepage. It fetches images from the Unsplash API and displays them in a grid layout. No functionality, just the layout",
+          build_with: [],
+          created_on: "2022",
+          repo_url: "https://github.com/JuanPabloDiaz/pinterest",
+          demo_url: "https://pinterest.jpdiaz.dev/",
+          image_url: "",
+        },
+      ],
+    },
+    {
+      year: "2021",
+      project: [
+        {
+          name: "",
+          description: "",
+          build_with: ["react", "next.js", "tailwind css"],
+          created_on: "2021",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+      ],
+    },
+    {
+      year: "2020",
+      project: [
+        {
+          name: "",
+          description: "",
+          build_with: ["react", "next.js", "tailwind css"],
+          created_on: "2021",
+          repo_url: "",
+          demo_url: "",
+          image_url: "",
+        },
+      ],
+    },
+    {
+      year: "2019",
+      project: [
+        {
+          name: "Git-Github",
+          description: "A course to learn Git and Github from Platzi",
+          build_with: ["git", "github", "html", "css"],
+          created_on: "2019",
+          repo_url: "https://github.com/JuanPabloDiaz/platzi-Git-Github",
+          demo_url: "https://platzi-git-github.vercel.app/",
+          image_url: "",
+        },
+      ],
+    },
+
+    // Add more companies and products here
+  ];
+  return Response.json({ platzi_api });
+}
