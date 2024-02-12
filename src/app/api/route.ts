@@ -1,5 +1,5 @@
 export async function GET() {
-  const platzi_api = [
+  const platzi = [
     {
       year: "2024",
       project: [
