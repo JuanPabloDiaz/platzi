@@ -1,18 +1,19 @@
 import Image from "next/image";
-// import { Card } from "../components/Card";
-import { CardMap } from "../components/CardMap";
+import { Card } from "../components/Card";
+// import { CardMap } from "../components/CardMap";
 
-export async function getServerSideProps() {
-  const res = await fetch("/app/api/route.ts");
-  const data = await res.json();
+// export async function getServerSideProps() {
+//   const res = await fetch("/app/api/route.ts");
+//   const data = await res.json();
 
-  return {
-    props: {
-      data,
-    },
-  };
-}
-export default function Home({ data }) {
+//   return {
+//     props: {
+//       data,
+//     },
+//   };
+// }
+
+export default function Home() {
   const container =
     "group rounded-lg border border-transparent px-5 py-4 transition-colors border border-white";
   const a_style =
@@ -33,17 +34,17 @@ export default function Home({ data }) {
           />
         </div>
       </div>
-      {/* <Card /> */}
+      <Card />
       <>
         <section className="text-gray-600 body-font">
           <div className="container px-5 py-24 mx-auto">
-            <div className="flex flex-wrap -m-4">
+            {/* <div className="flex flex-wrap -m-4">
               {data.map((item, index) => (
                 <div key={index} className="p-4 md:w-1/3">
                   <CardMap item={item} />
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
         </section>
       </>
