@@ -46,15 +46,6 @@ We welcome contributions to this repo! Feel free to fork the repository and subm
 
 <a href="https://github.com/JuanPabloDiaz/platzi/graphs/contributors"><img src="https://contrib.rocks/image?repo=JuanPabloDiaz/platzi" /></a><!-- Made with [contrib.rocks](https://contrib.rocks). -->
 
-
-## License 📜
-
-Jp·Shop is licensed under the MIT License.
-
-We hope you enjoy using Jp·Shop!
-
-<!-- LICENSE -->
-
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
