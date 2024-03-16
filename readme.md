@@ -38,7 +38,17 @@ I had the oportunity to take a few challenges and learn new skills along the way
 
 <img src="./public/readme/lighthouse.png" />
 
-<!-- LICENSE -->
+## Get started 🛠️
+
+To get started with this repo, simply clone the repository and follow the setup instructions. You'll be up and running in no time!
+
+## Contribution 🤝
+
+We welcome contributions to this repo! Feel free to fork the repository and submit pull requests with your improvements.
+
+### Contributors
+
+<a href="https://github.com/JuanPabloDiaz/platzi/graphs/contributors"><img src="https://contrib.rocks/image?repo=JuanPabloDiaz/platzi" /></a><!-- Made with [contrib.rocks](https://contrib.rocks). -->
 
 ## License 📜
 
