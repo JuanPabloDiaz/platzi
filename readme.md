@@ -34,6 +34,10 @@ I had the oportunity to take a few challenges and learn new skills along the way
 - [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/)
 - [Crea tu primera página web](https://platzi.com/blog/primera-pagina-web-2022/).
 
+### Lighthouse Score 🚀
+
+<img src="./public/readme/lighthouse.png" />
+
 <!-- LICENSE -->
 
 ## License 📜
