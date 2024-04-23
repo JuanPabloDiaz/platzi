@@ -38,7 +38,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^5.0.0"
   },
   "homepage": "https://juanpablodiaz.github.io/platzi/2022/intro-react.js/"
 }
